@@ -1,12 +1,33 @@
 debug = false
 disable_crowdin = false
 check_for_updates = true
-key_bindings = []
+
+[activations.4aec07ba-d109-3345-9a0a-92022a116cd0]
+type = "VOICE"
+toggle = false
+
+[[key_bindings]]
+name = "key.plasmovoice.proximity.ptt"
+any_context = true
+category = "hidden"
+
+[[key_bindings.keys]]
+code = 48
+type = "KEYSYM"
+
+[[key_bindings]]
+name = "key.plasmovoice.proximity.toggle"
+any_context = false
+category = "hidden"
+
+[[key_bindings.keys]]
+code = 48
+type = "KEYSYM"
 
 [voice]
 disabled = false
 microphone_disabled = false
-activation_threshold = -30.0
+activation_threshold = -45.0
 input_device = ""
 output_device = ""
 disable_input_device = false

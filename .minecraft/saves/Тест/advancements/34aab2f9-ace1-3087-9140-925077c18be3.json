@@ -13397,5 +13397,347 @@
     },
     "done": true
   },
+  "alekiships:cannon": {
+    "criteria": {
+      "cannon": "2026-06-14 22:35:16 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/advanced_energiser": {
+    "criteria": {
+      "criterion": "2026-06-14 22:46:36 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/layered_magnet": {
+    "criteria": {
+      "criterion": "2026-06-14 22:46:36 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/advanced_motor": {
+    "criteria": {
+      "criterion": "2026-06-14 22:46:38 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/overcharged_diamond_wire_block": {
+    "criteria": {
+      "criterion": "2026-06-14 22:46:57 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/overcharged_golden_wire_block": {
+    "criteria": {
+      "criterion": "2026-06-14 22:46:57 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shapeless/overcharged_diamond_wire": {
+    "criteria": {
+      "criterion": "2026-06-14 22:46:57 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shapeless/overcharged_golden_wire": {
+    "criteria": {
+      "criterion": "2026-06-14 22:46:57 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/overcharged_iron_wire_block": {
+    "criteria": {
+      "criterion": "2026-06-14 22:46:58 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shapeless/overcharged_iron_wire": {
+    "criteria": {
+      "criterion": "2026-06-14 22:46:58 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/reinforced_energiser": {
+    "criteria": {
+      "criterion": "2026-06-14 22:47:22 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/fluxuated_magnetite": {
+    "criteria": {
+      "criterion": "2026-06-14 22:47:22 +0300"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/tornado_siren": {
+    "criteria": {
+      "has_sensor_item": "2026-06-14 22:48:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2026-06-14 22:49:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2026-06-14 22:49:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2026-06-14 22:49:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-06-14 22:49:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2026-06-14 22:52:27 +0300"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_welder_mirrored": {
+    "criteria": {
+      "has_blaze_burner": "2026-06-14 23:04:05 +0300"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2026-06-14 23:04:05 +0300"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_welder": {
+    "criteria": {
+      "has_blaze_burner": "2026-06-14 23:04:05 +0300"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
+    "criteria": {
+      "has_item": "2026-06-14 23:05:20 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2026-06-14 23:06:40 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
+    "criteria": {
+      "has_item": "2026-06-14 23:06:41 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometer_from_conversion": {
+    "criteria": {
+      "has_item": "2026-06-14 23:06:41 +0300"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/centrifugal_clutch": {
+    "criteria": {
+      "has_item": "2026-06-14 23:06:41 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/portable_fuel_interface": {
+    "criteria": {
+      "has_item": "2026-06-14 23:08:05 +0300"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_builder": {
+    "criteria": {
+      "has_piston_extension_pole": "2026-06-14 23:08:09 +0300"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_loader": {
+    "criteria": {
+      "has_piston_extension_pole": "2026-06-14 23:08:09 +0300"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_drill": {
+    "criteria": {
+      "has_piston_extension_pole": "2026-06-14 23:08:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/furnace_minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2026-06-14 23:08:35 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2026-06-14 23:08:35 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassis_from_conversion": {
+    "criteria": {
+      "has_item": "2026-06-14 23:08:36 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassis_from_conversion": {
+    "criteria": {
+      "has_item": "2026-06-14 23:08:36 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/handcar": {
+    "criteria": {
+      "has_item": "2026-06-14 23:09:02 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2026-06-14 23:12:28 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2026-06-14 23:22:21 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2026-06-14 23:22:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-06-14 23:50:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-06-14 23:50:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2026-06-14 23:50:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2026-06-14 23:56:52 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -118,7 +118,8 @@
         "tfc:waterflasks/bladders",
         "tfc:waterflasks/recipes",
         "tfc:mechanics/anvils",
-        "tfc:mechanics/heating"
+        "tfc:mechanics/heating",
+        "tfc:firmalife/chocolate"
       ],
       "bookmarks": [
         {

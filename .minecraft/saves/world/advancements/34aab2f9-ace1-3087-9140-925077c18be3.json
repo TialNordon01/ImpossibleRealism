@@ -9344,5 +9344,17 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alloybrick_to_slab": {
+    "criteria": {
+      "has_alloybrick": "2026-06-14 16:15:17 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick_from_slab": {
+    "criteria": {
+      "has_alloybrick": "2026-06-14 16:15:17 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
