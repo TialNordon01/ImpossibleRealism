@@ -1,0 +1,199 @@
+{
+  "music.creative": {
+    "replace": false,
+    "sounds": [
+      { "name": "newmusic/now_that_this_old_world_is_ending", "stream": true },
+      { "name": "newmusic/inside_edens_gate", "stream": true },
+      { "name": "newmusic/5", "stream": true },
+      { "name": "newmusic/amazing_grace", "stream": true },
+      { "name": "newmusic/ambient_part_1", "stream": true },
+      { "name": "newmusic/escorting_the_father", "stream": true },
+      { "name": "newmusic/eulogy_theme", "stream": true },
+      { "name": "newmusic/faiths_loading_screen", "stream": true },
+      { "name": "newmusic/john_seeds_loading_screen", "stream": true },
+      { "name": "newmusic/safe_and_sound", "stream": true },
+      { "name": "newmusic/unreleased_ambient", "stream": true },
+      { "name": "newmusic/3", "stream": true },
+      { "name": "newmusic/johns_theme", "stream": true },
+      { "name": "newmusic/josephs_theme", "stream": true },
+      { "name": "newmusic/main_theme", "stream": true, "volume": 0.5 },
+
+			{
+                "name": "music.game",
+                "type": "event"
+            },
+            {
+                "name": "music/game/creative/creative1",
+                "stream": true
+            },
+            {
+                "name": "music/game/creative/creative2",
+                "stream": true
+            },
+            {
+                "name": "music/game/creative/creative3",
+                "stream": true
+            },
+            {
+                "name": "music/game/creative/creative4",
+                "stream": true
+            },
+            {
+                "name": "music/game/creative/creative5",
+                "stream": true
+            },
+            {
+                "name": "music/game/creative/creative6",
+                "stream": true
+            },
+
+		{ "name": "newmusic/haven-across", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/pretty-killer", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/tears-from-heaven", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/the-bridge-where-it-rains", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/welcome-to-russia", "stream": true, "volume": 0.5 },
+
+        { "name": "newmusic/Soundtrack1", "stream": true},
+		{ "name": "newmusic/Soundtrack2", "stream": true},
+		{ "name": "newmusic/Soundtrack3", "stream": true},
+		{ "name": "newmusic/Soundtrack4", "stream": true},
+		{ "name": "newmusic/Soundtrack5", "stream": true},
+        { "name": "newmusic/SpaceTheme2", "stream": true},
+		{ "name": "newmusic/Track6", "stream": true},
+		{ "name": "newmusic/Track7", "stream": true}
+    ]
+  },
+  "music.game": {
+    "replace": false,
+    "sounds": [
+      { "name": "newmusic/now_that_this_old_world_is_ending", "stream": true },
+      { "name": "newmusic/inside_edens_gate", "stream": true },
+      { "name": "newmusic/5", "stream": true },
+      { "name": "newmusic/amazing_grace", "stream": true },
+      { "name": "newmusic/ambient_part_1", "stream": true },
+      { "name": "newmusic/escorting_the_father", "stream": true },
+      { "name": "newmusic/eulogy_theme", "stream": true },
+      { "name": "newmusic/faiths_loading_screen", "stream": true },
+      { "name": "newmusic/john_seeds_loading_screen", "stream": true },
+      { "name": "newmusic/safe_and_sound", "stream": true },
+      { "name": "newmusic/unreleased_ambient", "stream": true },
+      { "name": "newmusic/3", "stream": true },
+      { "name": "newmusic/johns_theme", "stream": true },
+      { "name": "newmusic/josephs_theme", "stream": true },
+      { "name": "newmusic/main_theme", "stream": true },
+
+            {
+                "name": "music/game/calm1",
+                "stream": true
+            },
+            {
+                "name": "music/game/calm2",
+                "stream": true
+            },
+            {
+                "name": "music/game/calm3",
+                "stream": true
+            },
+            {
+                "name": "music/game/hal1",
+                "stream": true
+            },
+            {
+                "name": "music/game/hal2",
+                "stream": true
+            },
+            {
+                "name": "music/game/hal3",
+                "stream": true
+            },
+            {
+                "name": "music/game/hal4",
+                "stream": true
+            },
+            {
+                "name": "music/game/nuance1",
+                "stream": true
+            },
+            {
+                "name": "music/game/nuance2",
+                "stream": true
+            },
+            {
+                "name": "music/game/piano1",
+                "stream": true
+            },
+            {
+                "name": "music/game/piano2",
+                "stream": true
+            },
+            {
+                "name": "music/game/piano3",
+                "stream": true
+            },
+
+		{ "name": "newmusic/haven-across", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/pretty-killer", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/tears-from-heaven", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/the-bridge-where-it-rains", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/welcome-to-russia", "stream": true, "volume": 0.5 },
+
+        { "name": "newmusic/Soundtrack1", "stream": true},
+		{ "name": "newmusic/Soundtrack2", "stream": true},
+		{ "name": "newmusic/Soundtrack3", "stream": true},
+		{ "name": "newmusic/Soundtrack4", "stream": true},
+		{ "name": "newmusic/Soundtrack5", "stream": true},
+        { "name": "newmusic/SpaceTheme2", "stream": true},
+		{ "name": "newmusic/Track6", "stream": true},
+		{ "name": "newmusic/Track7", "stream": true}
+    ]
+  },
+  "music.menu": {
+    "replace": false,
+    "sounds": [
+      { "name": "newmusic/inside_edens_gate", "stream": true },
+      { "name": "newmusic/5", "stream": true },
+      { "name": "newmusic/amazing_grace", "stream": true },
+      { "name": "newmusic/escorting_the_father", "stream": true },
+      { "name": "newmusic/faiths_loading_screen", "stream": true },
+      { "name": "newmusic/john_seeds_loading_screen", "stream": true },
+      { "name": "newmusic/safe_and_sound", "stream": true },
+      { "name": "newmusic/unreleased_ambient", "stream": true },
+      { "name": "newmusic/3", "stream": true },
+	  { "name": "newmusic/johns_theme", "stream": true },
+      { "name": "newmusic/josephs_theme", "stream": true },
+      { "name": "newmusic/main_theme", "stream": true },
+
+			{
+                "name": "music/menu/menu1",
+                "stream": true
+            },
+            {
+                "name": "music/menu/menu2",
+                "stream": true
+            },
+            {
+                "name": "music/menu/menu3",
+                "stream": true
+            },
+            {
+                "name": "music/menu/menu4",
+                "stream": true
+            },
+
+		{ "name": "newmusic/haven-across", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/pretty-killer", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/tears-from-heaven", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/the-bridge-where-it-rains", "stream": true, "volume": 0.5 },
+		{ "name": "newmusic/welcome-to-russia", "stream": true, "volume": 0.5 },
+
+        { "name": "newmusic/Soundtrack1", "stream": true},
+		{ "name": "newmusic/Soundtrack2", "stream": true},
+		{ "name": "newmusic/Soundtrack3", "stream": true},
+		{ "name": "newmusic/Soundtrack4", "stream": true},
+		{ "name": "newmusic/Soundtrack5", "stream": true},
+        { "name": "newmusic/SpaceTheme2", "stream": true},
+		{ "name": "newmusic/Track6", "stream": true},
+		{ "name": "newmusic/Track7", "stream": true}
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+sets:gui.xaero_default:Минералы:Металлы
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Нитратная шахта:С:1078:77:-12178:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Солевая шахта:С:836:78:-12032:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Магнитная шахта:М:768:71:-12427:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Рыбное место:Р:1281:63:-12638:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Чёрная шахта:У:961:65:-12123:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Медовый холм:М:799:72:-12296:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Шахта цинкова:Ц:690:72:-12374:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Шахта висмутова:В:767:79:-13689:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Черные берега:Ч:888:63:-12453:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Бункер:Б:741:70:-12407:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Шахта медовая:М:832:59:-12322:7:true:0:gui.xaero_default:false:0:0:false
+waypoint:Убежище:У:667:67:-12124:8:true:0:gui.xaero_default:false:0:0:false
+waypoint:Спаун:С:719:68:-12130:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Соль:С:326:84:-12754:15:false:0:Минералы:false:0:0:false
+waypoint:Серная нефть:С:902:67:-11940:14:false:0:Минералы:false:0:0:false
+waypoint:Серная нефть:С:130:78:-13523:14:false:0:Минералы:false:0:0:false
+waypoint:Селитра:С:149:69:-13436:7:false:0:Минералы:false:0:0:false
+waypoint:Изумруд:И:143:63:-12490:10:false:0:Минералы:false:0:0:false
+waypoint:Сильвит:С:1062:80:-12153:4:false:0:Минералы:false:0:0:false
+waypoint:Селитра:С:1081:82:-12173:7:false:0:Минералы:false:0:0:false
+waypoint:Серная нефть:С:1016:93:-12090:14:false:0:Минералы:false:0:0:false
+waypoint:Бура:Б:1083:87:-12065:8:false:0:Минералы:false:0:0:false
+waypoint:Уголь:У:977:70:-11946:0:false:0:Минералы:false:0:0:false
+waypoint:Бура:Б:978:74:-11956:8:false:0:Минералы:false:0:0:false
+waypoint:Уголь:У:1397:65:-11984:0:false:0:Минералы:false:0:0:false
+waypoint:Галит:Г:1242:66:-12078:15:false:0:Минералы:false:0:0:false
+waypoint:Уголь:У:1247:68:-12083:0:false:0:Минералы:false:0:0:false
+waypoint:Сильвит:С:832:86:-12021:4:false:0:Минералы:false:0:0:false
+waypoint:Уголь:У:962:68:-12114:0:false:0:Минералы:false:0:0:false
+waypoint:Галит:Г:838:75:-12034:15:false:0:Минералы:false:0:0:false
+waypoint:Сильвит:С:924:74:-11972:4:false:0:Минералы:false:0:0:false
+waypoint:Сильвит:С:906:75:-11919:4:false:0:Минералы:false:0:0:false
+waypoint:Соль:С:427:86:-12425:15:false:0:Минералы:false:0:0:false
+waypoint:Гипс:Г:138:73:-13245:7:false:0:Минералы:false:0:0:false
+waypoint:Гипс:Г:139:66:-13477:7:false:0:Минералы:false:0:0:false
+waypoint:Гипс:Г:109:68:-13411:7:false:0:Минералы:false:0:0:false
+waypoint:Уголь:У:119:68:-13462:0:false:0:Минералы:false:0:0:false
+waypoint:Алмазы:А:431:65:-12490:9:false:0:Минералы:false:0:0:false
+waypoint:Галит:Г:306:75:-13314:15:false:0:Минералы:false:0:0:false
+waypoint:Лимонит:Л:1048:66:-12013:14:false:0:Металлы:false:0:0:false
+waypoint:Боксит:Б:93:71:-13395:7:false:0:Металлы:false:0:0:false
+waypoint:Магнетит:М:159:74:-13438:8:false:0:Металлы:false:0:0:false
+waypoint:Самородная медь:С:-373:63:-12826:6:false:0:Металлы:false:0:0:false
+waypoint:Медь:М:784:76:-11907:6:false:0:Металлы:false:0:0:false
+waypoint:Медь:М:773:67:-11988:6:false:0:Металлы:false:0:0:false
+waypoint:Свинец:С:147:74:-12791:1:false:0:Металлы:false:0:0:false
+waypoint:Самородная медь:С:141:77:-12727:6:false:0:Металлы:false:0:0:false
+waypoint:Самородная медь:С:282:75:-12603:6:false:0:Металлы:false:0:0:false

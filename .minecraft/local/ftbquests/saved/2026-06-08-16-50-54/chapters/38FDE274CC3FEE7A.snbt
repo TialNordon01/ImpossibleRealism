@@ -1,0 +1,193 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "38FDE274CC3FEE7A"
+	group: ""
+	id: "38FDE274CC3FEE7A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "322837E02F5087D1"
+			subtitle: "Работа кузнеца - нелёгкое дело..."
+			tasks: [{
+				id: "49C0E736E8BB8A56"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/anvil/copper"
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			id: "2ABB025B53EEFDBC"
+			subtitle: "Обычная бронза"
+			tasks: [{
+				id: "4F6B294F5537FBDF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:ore/small_cassiterite"
+				}
+				type: "item"
+			}]
+			title: "Олово"
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			id: "1F1DE58E39931B85"
+			subtitle: "Висмут"
+			tasks: [{
+				id: "5EE8B8EE6FFBD460"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:ore/small_bismuthinite"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			id: "25DBDD787EE5D587"
+			subtitle: "Цинк"
+			tasks: [{
+				id: "3F365A4347236A71"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:ore/small_sphalerite"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "68AB925C33B3C51C"
+			subtitle: "Золото"
+			tasks: [{
+				id: "5A2EA92612091D18"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:ore/small_native_gold"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "3D63FAD88456DAFC"
+			subtitle: "Серебро"
+			tasks: [{
+				id: "6ABB1206FA882E0F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:ore/small_native_silver"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			id: "4099B9EC0F4E8EDB"
+			subtitle: "Пришлось поплавать в речке или походить по горам!"
+			tasks: [{
+				id: "602D3574DF9BFF56"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/ingot/bronze"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			id: "3401A1BD812804BA"
+			subtitle: "Сложно было преодолеть течение реки..."
+			tasks: [{
+				id: "74D55D2E7050E435"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/ingot/black_bronze"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			id: "02B540EBE7B7C9B2"
+			subtitle: "Долгое путешествие того стоило"
+			tasks: [{
+				id: "79A60B8EB86F1088"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/ingot/bismuth"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+	]
+	title: "Бронзовый век"
+}

@@ -1,0 +1,12 @@
+#51A tfc:canyons
+#5DA tfc:deep_ocean
+#175 tfc:highlands
+#041 tfc:hills
+#32F tfc:low_canyons
+#6ED tfc:ocean
+#6A4 tfc:ocean_reef
+#08E tfc:oceanic_mountains
+#5D8 tfc:plains
+#5C7 tfc:rolling_hills
+#25C tfc:shore
+#284 tfc:tidal_flats

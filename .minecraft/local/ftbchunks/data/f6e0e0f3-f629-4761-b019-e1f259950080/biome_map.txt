@@ -1,0 +1,5 @@
+#4CA minecraft:dripstone_caves
+#508 minecraft:frozen_peaks
+#286 minecraft:grove
+#340 minecraft:snowy_taiga
+#169 minecraft:taiga

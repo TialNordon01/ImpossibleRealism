@@ -1,0 +1,188 @@
+{
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 395,
+                "top": 257
+            },
+            "SETTINGS": {
+                "horizontalOffset": 381,
+                "top": 242
+            },
+            "PROFILE_SELECTOR": {
+                "bottom": 41
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 372,
+                "top": 62
+            },
+            "SETTINGS": {
+                "horizontalOffset": 385,
+                "top": 47
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": 51,
+                "bottom": 38
+            }
+        }
+    },
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 379,
+                "top": 61
+            },
+            "SETTINGS": {
+                "horizontalOffset": 365,
+                "top": 46
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CraftingScreen": {
+        "buttonHints": {
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": 69,
+                "bottom": 56
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 379,
+                "top": 61
+            },
+            "SETTINGS": {
+                "horizontalOffset": 366,
+                "top": 46
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 381,
+                "top": 37
+            },
+            "SETTINGS": {
+                "horizontalOffset": 369,
+                "top": 22
+            }
+        }
+    },
+    "net.dries007.tfc.client.screen.BarrelScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 381,
+                "top": 58
+            },
+            "SETTINGS": {
+                "horizontalOffset": 369,
+                "top": 43
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.client.gui.CokeOvenScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 381,
+                "top": 65
+            },
+            "SETTINGS": {
+                "horizontalOffset": 369,
+                "top": 50
+            }
+        }
+    },
+    "cy.jdkdigital.tfcgroomer.inventory.GroomingStationScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 15
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 381,
+                "top": 64
+            },
+            "SETTINGS": {
+                "horizontalOffset": 369,
+                "top": 49
+            }
+        }
+    },
+    "flaxbeard.immersivepetroleum.client.gui.CokerUnitScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 223,
+                "top": 53
+            },
+            "SETTINGS": {
+                "horizontalOffset": 210,
+                "top": 38
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -1,
+                "bottom": -13
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -17
+            },
+            "SORT": {
+                "top": -17
+            },
+            "SORT_COLUMNS": {
+                "top": -17
+            },
+            "SORT_ROWS": {
+                "top": -17
+            }
+        }
+    },
+    "io.github.vasakot.tfcea.client.screen.RefrigeratorScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 20,
+                "bottom": -1
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 394,
+                "top": 224
+            },
+            "SETTINGS": {
+                "horizontalOffset": 383,
+                "top": 209
+            }
+        }
+    },
+    "com.rae.creatingspace.content.rocket.engine.table.EngineerTableScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 148,
+                "bottom": 9
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 54,
+                "top": 129
+            },
+            "SORT": {
+                "horizontalOffset": 54,
+                "top": 129
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 54,
+                "top": 129
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 54,
+                "top": 129
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 259,
+                "top": 167
+            },
+            "SETTINGS": {
+                "horizontalOffset": 259,
+                "top": 166
+            }
+        }
+    }
+}

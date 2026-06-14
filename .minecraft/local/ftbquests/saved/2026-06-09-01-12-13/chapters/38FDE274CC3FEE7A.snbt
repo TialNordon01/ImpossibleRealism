@@ -1,0 +1,1033 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "38FDE274CC3FEE7A"
+	group: ""
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"tfc:item_heat": {
+				heat: 0.0f
+				ticks: 0L
+			}
+		}
+		id: "tfc:metal/ingot/bronze"
+	}
+	id: "38FDE274CC3FEE7A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"29F7A897FFD209CB"
+				"59DDC9EE65868521"
+			]
+			id: "322837E02F5087D1"
+			size: 2.0d
+			subtitle: "Работа кузнеца - нелёгкое дело..."
+			tasks: [{
+				id: "49C0E736E8BB8A56"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/anvil/copper"
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["322837E02F5087D1"]
+			id: "2ABB025B53EEFDBC"
+			subtitle: "Олово"
+			tasks: [
+				{
+					id: "4F6B294F5537FBDF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/small_cassiterite"
+					}
+					type: "item"
+				}
+				{
+					id: "53220991553277BE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/poor_cassiterite"
+					}
+					type: "item"
+				}
+				{
+					id: "6959E9922F171132"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/normal_cassiterite"
+					}
+					type: "item"
+				}
+				{
+					id: "215C049A222288D3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/rich_cassiterite"
+					}
+					type: "item"
+				}
+			]
+			title: "Касситерит"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["322837E02F5087D1"]
+			id: "1F1DE58E39931B85"
+			subtitle: "Висмут"
+			tasks: [
+				{
+					id: "5EE8B8EE6FFBD460"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/small_bismuthinite"
+					}
+					type: "item"
+				}
+				{
+					id: "029AFB5E81D1B993"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/poor_bismuthinite"
+					}
+					type: "item"
+				}
+				{
+					id: "0B43467686460B92"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/normal_bismuthinite"
+					}
+					type: "item"
+				}
+				{
+					id: "784B413BAE0CA4C6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/rich_bismuthinite"
+					}
+					type: "item"
+				}
+			]
+			title: "Висмутин"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["322837E02F5087D1"]
+			dependency_requirement: "all_started"
+			id: "25DBDD787EE5D587"
+			subtitle: "Цинк"
+			tasks: [
+				{
+					id: "3F365A4347236A71"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/small_sphalerite"
+					}
+					type: "item"
+				}
+				{
+					id: "48E5FB77094CE4DB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/poor_sphalerite"
+					}
+					type: "item"
+				}
+				{
+					id: "6CA9267CDFBB178B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/normal_sphalerite"
+					}
+					type: "item"
+				}
+				{
+					id: "5FBF18AFF59EEE1B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/rich_sphalerite"
+					}
+					type: "item"
+				}
+			]
+			title: "Сфалерит"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["322837E02F5087D1"]
+			id: "68AB925C33B3C51C"
+			subtitle: "Золото"
+			tasks: [
+				{
+					id: "5A2EA92612091D18"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/small_native_gold"
+					}
+					type: "item"
+				}
+				{
+					id: "708A8BD36C6FA8F5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/poor_native_gold"
+					}
+					type: "item"
+				}
+				{
+					id: "3EA1D6BE538A6E96"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/normal_native_gold"
+					}
+					type: "item"
+				}
+				{
+					id: "1A16F0DC4E10E41C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/rich_native_gold"
+					}
+					type: "item"
+				}
+			]
+			title: "Самородное золото"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["322837E02F5087D1"]
+			id: "3D63FAD88456DAFC"
+			subtitle: "Серебро"
+			tasks: [
+				{
+					id: "6ABB1206FA882E0F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/small_native_silver"
+					}
+					type: "item"
+				}
+				{
+					id: "418ABE370E51B6C0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/poor_native_silver"
+					}
+					type: "item"
+				}
+				{
+					id: "71D91E4F20A36B0F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/normal_native_silver"
+					}
+					type: "item"
+				}
+				{
+					id: "5820AF2BB2B958DF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:ore/rich_native_silver"
+					}
+					type: "item"
+				}
+			]
+			title: "Самородное серебро"
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2ABB025B53EEFDBC"]
+			dependency_requirement: "all_started"
+			id: "4099B9EC0F4E8EDB"
+			subtitle: "Пришлось поплавать в речке или походить по горам!"
+			tasks: [{
+				id: "602D3574DF9BFF56"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/ingot/bronze"
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"68AB925C33B3C51C"
+				"3D63FAD88456DAFC"
+			]
+			dependency_requirement: "all_started"
+			id: "3401A1BD812804BA"
+			subtitle: "Сложно было преодолеть течение реки... или вы просто очень удачливый"
+			tasks: [{
+				id: "74D55D2E7050E435"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/ingot/black_bronze"
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"1F1DE58E39931B85"
+				"25DBDD787EE5D587"
+			]
+			dependency_requirement: "all_started"
+			id: "02B540EBE7B7C9B2"
+			subtitle: "Долгое путешествие того стоило"
+			tasks: [{
+				id: "25C0CB0672C2FA2C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/ingot/bismuth_bronze"
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"4099B9EC0F4E8EDB"
+				"3401A1BD812804BA"
+				"02B540EBE7B7C9B2"
+			]
+			dependency_requirement: "one_completed"
+			id: "17115CE550ADED64"
+			shape: "square"
+			size: 2.0d
+			subtitle: "Новый шаг в развитии"
+			tasks: [
+				{
+					id: "591E071CB4791C91"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/anvil/bronze"
+					}
+					type: "item"
+				}
+				{
+					id: "49C03B9503F885B6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/anvil/bismuth_bronze"
+					}
+					type: "item"
+				}
+				{
+					id: "460743FC376E3F9B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/anvil/black_bronze"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["25DBDD787EE5D587"]
+			id: "6B7104E8D0745B7C"
+			subtitle: "Простая бронза"
+			tasks: [{
+				id: "4A043D544D4E4CD9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/ingot/brass"
+				}
+				type: "item"
+			}]
+			title: "Латунь"
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"109A8C7D2DBC251A"
+				"2508068F7325D5EC"
+				"55747B8900F29989"
+				"2E9F96B751C896E2"
+				"747B077FEFC47ED0"
+			]
+			id: "0EFC174C82BBB4B0"
+			tasks: [{
+				id: "03FAF8349421CB8A"
+				item: "tfc:empty_jar_with_lid"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			id: "1AC88FE6681DE5D9"
+			subtitle: "Форма металической платины"
+			tasks: [{
+				id: "7AFD685567148FB3"
+				item: "firmalife:vat"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["4F6B294F5537FBDF"]
+			id: "109A8C7D2DBC251A"
+			subtitle: "Антибактериально"
+			tasks: [{
+				id: "17D473570E96E8C3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/ingot/tin"
+				}
+				type: "item"
+			}]
+			title: "Олово"
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["6B7104E8D0745B7C"]
+			id: "2508068F7325D5EC"
+			subtitle: "Стержень с клеем и драгоценностями"
+			tasks: [{
+				id: "716B4193C421C5B5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:gem_saw"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6B7104E8D0745B7C"]
+			id: "55747B8900F29989"
+			subtitle: "Любая ткань, которая достаточно губчата для формовки стекла"
+			tasks: [{
+				id: "1891D851AD6330CB"
+				item: "tfc:wool_cloth"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6B7104E8D0745B7C"]
+			id: "747B077FEFC47ED0"
+			subtitle: "Выбирай с умом"
+			tasks: [
+				{
+					id: "61993443B020AB36"
+					item: "tfc:blowpipe"
+					type: "item"
+				}
+				{
+					id: "327EDD3586F44995"
+					item: "tfc:ceramic_blowpipe"
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["6B7104E8D0745B7C"]
+			id: "2E9F96B751C896E2"
+			subtitle: "Ужать"
+			tasks: [{
+				id: "2A0A9FA8EC9788E8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:jacks"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"0EFC174C82BBB4B0"
+				"1AC88FE6681DE5D9"
+			]
+			id: "75EB15D1B6F553F6"
+			subtitle: "Фруктовая закваска"
+			tasks: [
+				{
+					id: "04890B83F718D4DC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2214000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/blackberry"
+					}
+					type: "item"
+				}
+				{
+					id: "270829A7634C7042"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/blueberry"
+					}
+					type: "item"
+				}
+				{
+					id: "062742665A6E4555"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/bunchberry"
+					}
+					type: "item"
+				}
+				{
+					id: "104E414ACAA6A878"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/cloudberry"
+					}
+					type: "item"
+				}
+				{
+					id: "73BB8136D2809EAB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/cranberry"
+					}
+					type: "item"
+				}
+				{
+					id: "0C78BC7DF9875A19"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/elderberry"
+					}
+					type: "item"
+				}
+				{
+					id: "45D5743735E36498"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/gooseberry"
+					}
+					type: "item"
+				}
+				{
+					id: "756890F0C7147066"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/raspberry"
+					}
+					type: "item"
+				}
+				{
+					id: "78060744F93EF3A8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/snowberry"
+					}
+					type: "item"
+				}
+				{
+					id: "58683A61D97D61DE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/strawberry"
+					}
+					type: "item"
+				}
+				{
+					id: "588586C0884F8269"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/wintergreen_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "61A51B2925DC2451"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/banana"
+					}
+					type: "item"
+				}
+				{
+					id: "05CB114A84241986"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/cherry"
+					}
+					type: "item"
+				}
+				{
+					id: "48C4DF521F5A615F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/green_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "1A0C051F80555D43"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/lemon"
+					}
+					type: "item"
+				}
+				{
+					id: "1BA1D7948BC4E9D7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/olive"
+					}
+					type: "item"
+				}
+				{
+					id: "1669221C8DAF8EED"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/orange"
+					}
+					type: "item"
+				}
+				{
+					id: "55B8C897F019FDDE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/peach"
+					}
+					type: "item"
+				}
+				{
+					id: "273D5D019537AF42"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/plum"
+					}
+					type: "item"
+				}
+				{
+					id: "3AD18D57A1B45688"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/red_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "74E417A3A1749630"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/pumpkin_chunks"
+					}
+					type: "item"
+				}
+				{
+					id: "4C2FB28D3D88EE33"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "tfc:jar/melon_slice"
+					}
+					type: "item"
+				}
+				{
+					id: "49272E4991E068CA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "firmalife:jar/fig"
+					}
+					type: "item"
+				}
+				{
+					id: "6338591225CC7940"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "firmalife:jar/pineapple"
+					}
+					type: "item"
+				}
+				{
+					id: "318F0ECC96D32EDB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "firmalife:jar/red_grapes"
+					}
+					type: "item"
+				}
+				{
+					id: "132847F39235CFC4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:food": {
+								creationDate: 2226000L
+								traits: [ ]
+							}
+						}
+						id: "firmalife:jar/white_grapes"
+					}
+					type: "item"
+				}
+			]
+			title: "Варенье"
+			x: 5.0d
+			y: -6.5d
+		}
+	]
+	title: "Бронзовый век"
+}

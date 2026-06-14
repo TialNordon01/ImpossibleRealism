@@ -1,0 +1,54 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "793FCE93CB0A919B"
+	group: ""
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"tfc:item_heat": {
+				heat: 0.0f
+				ticks: 0L
+			}
+		}
+		id: "tfc:metal/ingot/wrought_iron"
+	}
+	id: "793FCE93CB0A919B"
+	order_index: 3
+	quest_links: [
+		{
+			id: "1AF48AA532CF7402"
+			linked_quest: "17115CE550ADED64"
+			size: 2.0d
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			id: "43AB0CA75ED67FBB"
+			linked_quest: "7CB8AA6F8D362CD0"
+			size: 2.0d
+			x: -6.0d
+			y: 1.0d
+		}
+	]
+	quests: [{
+		id: "475DDA192C4EEE18"
+		tasks: [{
+			id: "70F2552E388DE9F0"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"tfc:item_heat": {
+						heat: 0.0f
+						ticks: 0L
+					}
+				}
+				id: "tfc:metal/ingot/wrought_iron"
+			}
+			type: "item"
+		}]
+		x: -4.0d
+		y: 1.0d
+	}]
+	title: "Железный век"
+}

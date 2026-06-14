@@ -1,0 +1,774 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "23EE74B568D34D43"
+	group: ""
+	id: "23EE74B568D34D43"
+	order_index: 1
+	quest_links: [
+		{
+			id: "148A77EA17681CB8"
+			linked_quest: "322837E02F5087D1"
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			id: "54CC7A56AB931CF3"
+			linked_quest: "38D7A061EEE68F3B"
+			x: -5.5d
+			y: 0.5d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["45785EFFBCC1FE82"]
+			dependency_requirement: "one_completed"
+			id: "7F13C0E3C9635C6B"
+			subtitle: "Древесная обработка"
+			tasks: [
+				{
+					id: "7E3F68D61EEE3826"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/saw/bismuth_bronze"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5ACFDAE012257AF9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/saw/black_bronze"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2B818438AC28BDDE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/saw/bronze"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A65CD6EAF20ACF4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/saw/copper"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Пила"
+			x: -5.5d
+			y: 3.0d
+		}
+		{
+			id: "72FA00160293010C"
+			subtitle: "Каменная обработка"
+			tasks: [
+				{
+					id: "637CC103CBC25115"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/chisel/bismuth_bronze"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "69AB1E8CB38FEE27"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/chisel/black_bronze"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "244A3CBEF67F00E9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/chisel/bronze"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "157B246B8F20D905"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+						id: "tfc:metal/chisel/copper"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Зубило"
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7F13C0E3C9635C6B"]
+			id: "4A87027EB26E4017"
+			subtitle: "Продвинутое хранение жидкостей!"
+			tasks: [
+				{
+					id: "687E8051DAC3B689"
+					item: "tfc:wood/barrel/acacia"
+					type: "item"
+				}
+				{
+					id: "279CE626F30E4C88"
+					item: "tfc:wood/barrel/ash"
+					type: "item"
+				}
+				{
+					id: "07ABC3FEB592D5CC"
+					item: "tfc:wood/barrel/aspen"
+					type: "item"
+				}
+				{
+					id: "5999CE12391C7902"
+					item: "tfc:wood/barrel/birch"
+					type: "item"
+				}
+				{
+					id: "389A981B414D0FBB"
+					item: "tfc:wood/barrel/blackwood"
+					type: "item"
+				}
+				{
+					id: "39113534665388FE"
+					item: "tfc:wood/barrel/chestnut"
+					type: "item"
+				}
+				{
+					id: "4F7E7354DA33D91B"
+					item: "tfc:wood/barrel/douglas_fir"
+					type: "item"
+				}
+				{
+					id: "790073891966B4F5"
+					item: "tfc:wood/barrel/hickory"
+					type: "item"
+				}
+				{
+					id: "7535DE01867EAFD5"
+					item: "tfc:wood/barrel/kapok"
+					type: "item"
+				}
+				{
+					id: "19D216C23674EC55"
+					item: "tfc:wood/barrel/mangrove"
+					type: "item"
+				}
+				{
+					id: "1DC6883D8F5D614B"
+					item: "tfc:wood/barrel/maple"
+					type: "item"
+				}
+				{
+					id: "04C4DF71593C6507"
+					item: "tfc:wood/barrel/oak"
+					type: "item"
+				}
+				{
+					id: "2E7F49AA63D82D3A"
+					item: "tfc:wood/barrel/palm"
+					type: "item"
+				}
+				{
+					id: "5EED65584DF4E0FD"
+					item: "tfc:wood/barrel/pine"
+					type: "item"
+				}
+				{
+					id: "1876EF64A6783A97"
+					item: "tfc:wood/barrel/rosewood"
+					type: "item"
+				}
+				{
+					id: "68A3484012C72873"
+					item: "tfc:wood/barrel/sequoia"
+					type: "item"
+				}
+				{
+					id: "71EBA1507B2B9FA9"
+					item: "tfc:wood/barrel/spruce"
+					type: "item"
+				}
+				{
+					id: "0A7EE1EC5AFEEE4B"
+					item: "tfc:wood/barrel/sycamore"
+					type: "item"
+				}
+				{
+					id: "12D75D063EEB286D"
+					item: "tfc:wood/barrel/white_cedar"
+					type: "item"
+				}
+				{
+					id: "746AF454BF66ED9E"
+					item: "tfc:wood/barrel/willow"
+					type: "item"
+				}
+				{
+					id: "6321AEF8BA1F7742"
+					item: "afc:wood/barrel/baobab"
+					type: "item"
+				}
+				{
+					id: "1E45E0B78987F740"
+					item: "afc:wood/barrel/eucalyptus"
+					type: "item"
+				}
+				{
+					id: "57EF9B7AF0F75B45"
+					item: "afc:wood/barrel/mahogany"
+					type: "item"
+				}
+				{
+					id: "020921A48BD52D12"
+					item: "afc:wood/barrel/hevea"
+					type: "item"
+				}
+				{
+					id: "6F2EC2A350241929"
+					item: "afc:wood/barrel/tualang"
+					type: "item"
+				}
+				{
+					id: "50C2D70D39702DA1"
+					item: "afc:wood/barrel/teak"
+					type: "item"
+				}
+				{
+					id: "2E448F39DF18EDE9"
+					item: "afc:wood/barrel/cypress"
+					type: "item"
+				}
+				{
+					id: "6FDA652B7405E727"
+					item: "afc:wood/barrel/fig"
+					type: "item"
+				}
+				{
+					id: "4D76BE382BFE8143"
+					item: "afc:wood/barrel/ironwood"
+					type: "item"
+				}
+				{
+					id: "3F9A09748FDE2E6E"
+					item: "afc:wood/barrel/ipe"
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7F13C0E3C9635C6B"]
+			id: "43726AA73DE9360C"
+			subtitle: "Продвинутое хранение предметов!"
+			tasks: [
+				{
+					id: "00199E813769F023"
+					item: "tfc:wood/chest/acacia"
+					type: "item"
+				}
+				{
+					id: "6F9EE8FF3737017B"
+					item: "tfc:wood/chest/ash"
+					type: "item"
+				}
+				{
+					id: "57CB77DFBC8370FB"
+					item: "tfc:wood/chest/aspen"
+					type: "item"
+				}
+				{
+					id: "4B89554B7AE6088F"
+					item: "tfc:wood/chest/birch"
+					type: "item"
+				}
+				{
+					id: "2ACBCF7DB1B7B94F"
+					item: "tfc:wood/chest/blackwood"
+					type: "item"
+				}
+				{
+					id: "55A51CDA8182E92D"
+					item: "tfc:wood/chest/chestnut"
+					type: "item"
+				}
+				{
+					id: "5610DAB25F7D5A12"
+					item: "tfc:wood/chest/douglas_fir"
+					type: "item"
+				}
+				{
+					id: "73C3206AF59F7761"
+					item: "tfc:wood/chest/hickory"
+					type: "item"
+				}
+				{
+					id: "54647525DDFAB22E"
+					item: "tfc:wood/chest/kapok"
+					type: "item"
+				}
+				{
+					id: "19B09294AC429698"
+					item: "tfc:wood/chest/mangrove"
+					type: "item"
+				}
+				{
+					id: "7B5599188E5930BC"
+					item: "tfc:wood/chest/maple"
+					type: "item"
+				}
+				{
+					id: "6E62605FBCDAEE39"
+					item: "tfc:wood/chest/oak"
+					type: "item"
+				}
+				{
+					id: "341B23202CF6232B"
+					item: "tfc:wood/chest/palm"
+					type: "item"
+				}
+				{
+					id: "6F8309B9ED05CF0D"
+					item: "tfc:wood/chest/pine"
+					type: "item"
+				}
+				{
+					id: "486D7B8D38EB6934"
+					item: "tfc:wood/chest/rosewood"
+					type: "item"
+				}
+				{
+					id: "58573E450E2BE19F"
+					item: "tfc:wood/chest/sequoia"
+					type: "item"
+				}
+				{
+					id: "6B784CF8C8680C6D"
+					item: "tfc:wood/chest/spruce"
+					type: "item"
+				}
+				{
+					id: "1E4ADCB207A82236"
+					item: "tfc:wood/chest/sycamore"
+					type: "item"
+				}
+				{
+					id: "596D171D9EA00B56"
+					item: "tfc:wood/chest/white_cedar"
+					type: "item"
+				}
+				{
+					id: "2AE192998D36CD4A"
+					item: "tfc:wood/chest/willow"
+					type: "item"
+				}
+				{
+					id: "5BC342DF79828C4B"
+					item: "afc:wood/chest/baobab"
+					type: "item"
+				}
+				{
+					id: "0C9DBE562AA0A267"
+					item: "afc:wood/chest/eucalyptus"
+					type: "item"
+				}
+				{
+					id: "3B471D3A07BFDA2A"
+					item: "afc:wood/chest/mahogany"
+					type: "item"
+				}
+				{
+					id: "1E69AD70446026F8"
+					item: "afc:wood/chest/hevea"
+					type: "item"
+				}
+				{
+					id: "27C5E11449FB7C82"
+					item: "afc:wood/chest/tualang"
+					type: "item"
+				}
+				{
+					id: "61CC85CE541FD83E"
+					item: "afc:wood/chest/teak"
+					type: "item"
+				}
+				{
+					id: "4786F4D3A55BF29B"
+					item: "afc:wood/chest/cypress"
+					type: "item"
+				}
+				{
+					id: "1480D4D2E190D363"
+					item: "afc:wood/chest/fig"
+					type: "item"
+				}
+				{
+					id: "7C35C9AD9C3BE6D3"
+					item: "afc:wood/chest/ironwood"
+					type: "item"
+				}
+				{
+					id: "4911224C08397935"
+					item: "afc:wood/chest/ipe"
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7F13C0E3C9635C6B"]
+			id: "2631B66738E84518"
+			subtitle: "Можно ли это назвать дюпом?.."
+			tasks: [
+				{
+					id: "7A5F6F8BE5938F54"
+					item: "tfc:wood/planks/acacia"
+					type: "item"
+				}
+				{
+					id: "220CFDD1290F02C4"
+					item: "tfc:wood/planks/ash"
+					type: "item"
+				}
+				{
+					id: "33ACD82D364390E2"
+					item: "tfc:wood/planks/aspen"
+					type: "item"
+				}
+				{
+					id: "3D97BC031DECF03E"
+					item: "tfc:wood/planks/birch"
+					type: "item"
+				}
+				{
+					id: "0A49E09FF33B651D"
+					item: "tfc:wood/planks/blackwood"
+					type: "item"
+				}
+				{
+					id: "4A39469D92CEB15F"
+					item: "tfc:wood/planks/chestnut"
+					type: "item"
+				}
+				{
+					id: "1575C047E58B7C20"
+					item: "tfc:wood/planks/douglas_fir"
+					type: "item"
+				}
+				{
+					id: "689AAD2F9E2CADE2"
+					item: "tfc:wood/planks/hickory"
+					type: "item"
+				}
+				{
+					id: "06943C33AD7790C4"
+					item: "tfc:wood/planks/kapok"
+					type: "item"
+				}
+				{
+					id: "5DC2DBFC0AFCFA7B"
+					item: "tfc:wood/planks/mangrove"
+					type: "item"
+				}
+				{
+					id: "3F6D61DCB100980E"
+					item: "tfc:wood/planks/maple"
+					type: "item"
+				}
+				{
+					id: "680A7417E0CD1C42"
+					item: "tfc:wood/planks/oak"
+					type: "item"
+				}
+				{
+					id: "3C30A4F7DD43C4EA"
+					item: "tfc:wood/planks/palm"
+					type: "item"
+				}
+				{
+					id: "7C69A4F05D6E68D0"
+					item: "tfc:wood/planks/pine"
+					type: "item"
+				}
+				{
+					id: "6A1499582632DEBB"
+					item: "tfc:wood/planks/rosewood"
+					type: "item"
+				}
+				{
+					id: "299BDECE7C9AA87F"
+					item: "tfc:wood/planks/sequoia"
+					type: "item"
+				}
+				{
+					id: "121F50AB3BBA5675"
+					item: "tfc:wood/planks/spruce"
+					type: "item"
+				}
+				{
+					id: "3D668CC81A23FB4E"
+					item: "tfc:wood/planks/sycamore"
+					type: "item"
+				}
+				{
+					id: "080543C8B7915356"
+					item: "tfc:wood/planks/white_cedar"
+					type: "item"
+				}
+				{
+					id: "2517FEEC944D64A1"
+					item: "tfc:wood/planks/willow"
+					type: "item"
+				}
+				{
+					id: "5896EE11158163BF"
+					item: "afc:wood/planks/baobab"
+					type: "item"
+				}
+				{
+					id: "342F50EF0D120D58"
+					item: "afc:wood/planks/eucalyptus"
+					type: "item"
+				}
+				{
+					id: "26D2C82B24CD8F75"
+					item: "afc:wood/planks/mahogany"
+					type: "item"
+				}
+				{
+					id: "3808EF957AAA1797"
+					item: "afc:wood/planks/hevea"
+					type: "item"
+				}
+				{
+					id: "2FCDEE78C549C815"
+					item: "afc:wood/planks/tualang"
+					type: "item"
+				}
+				{
+					id: "1D80DC4579635D14"
+					item: "afc:wood/planks/teak"
+					type: "item"
+				}
+				{
+					id: "62DFB309EDD61405"
+					item: "afc:wood/planks/cypress"
+					type: "item"
+				}
+				{
+					id: "264BE2D8AF3DC243"
+					item: "afc:wood/planks/fig"
+					type: "item"
+				}
+				{
+					id: "402B6774EA848A88"
+					item: "afc:wood/planks/ironwood"
+					type: "item"
+				}
+				{
+					id: "02EC42A445BA83F3"
+					item: "afc:wood/planks/ipe"
+					type: "item"
+				}
+			]
+			title: "Доски"
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			id: "42BA34B0912B22E5"
+			subtitle: "Материал для сварки и ковки"
+			tasks: [{
+				id: "50DE31F0A8D15E80"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/ingot/copper"
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["38D7A061EEE68F3B"]
+			id: "29F7A897FFD209CB"
+			subtitle: "Материал для наковальни и ковки"
+			tasks: [{
+				id: "64C30E5452E43899"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:metal/double_ingot/copper"
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["21A0FD074C618AA4"]
+			id: "45785EFFBCC1FE82"
+			subtitle: "Отливка из сосуда или прямо в угольной кузне"
+			tasks: [{
+				id: "6259F6886061FD40"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:ceramic/saw_blade_mold"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			id: "4342BFB6231210DD"
+			subtitle: "Отливка из сосуда или прямо в угольной кузне"
+			tasks: [{
+				id: "0BD67CC9D132F431"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:ceramic/chisel_head_mold"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["21A0FD074C618AA4"]
+			id: "410F9593FE44D08B"
+			subtitle: "Отливка слитка из сосуда или в угольной кузне"
+			tasks: [{
+				id: "50FE57C76DE9366B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+					id: "tfc:ceramic/ingot_mold"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2631B66738E84518"]
+			id: "59DDC9EE65868521"
+			subtitle: "Рабочее место"
+			tasks: [{
+				id: "4C473782C0180BE3"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+	]
+	title: "Медный век"
+}
