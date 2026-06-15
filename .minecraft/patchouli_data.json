@@ -119,7 +119,8 @@
         "tfc:waterflasks/recipes",
         "tfc:mechanics/anvils",
         "tfc:mechanics/heating",
-        "tfc:firmalife/chocolate"
+        "tfc:firmalife/chocolate",
+        "tfc:firmalife/greenhouse"
       ],
       "bookmarks": [
         {

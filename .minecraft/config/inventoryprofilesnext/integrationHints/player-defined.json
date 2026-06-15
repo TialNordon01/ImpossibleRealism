@@ -184,5 +184,17 @@
                 "top": 166
             }
         }
+    },
+    "net.mcreator.tfckac.client.gui.KilnGUIScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 381,
+                "top": 65
+            },
+            "SETTINGS": {
+                "horizontalOffset": 369,
+                "top": 50
+            }
+        }
     }
 }

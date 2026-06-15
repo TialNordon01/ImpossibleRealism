@@ -13739,5 +13739,347 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/tuff_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/glass_colors": {
+    "criteria": {
+      "glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": false
+  },
+  "railways:recipes/misc/crafting/palettes/windows/purple_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/dripstone_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/light_blue_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/yellow_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/blue_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/magenta_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/turquoise_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/scorchia_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/maroon_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/red_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/empty_paint_pitcher": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/diorite_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/black_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/green_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/sea_green_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/olive_green_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/cyan_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/limestone_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/orange_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/vermilion_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/chartreuse_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/granite_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/pink_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/gray_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/light_gray_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/brown_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/white_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "tfc_kac:babies_first_factory": {
+    "criteria": {
+      "babies_first_factory_0": "2026-06-15 15:20:27 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/lime_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/ochrum_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/pine_green_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/windows/royal_blue_single_pane_locometal_window": {
+    "criteria": {
+      "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

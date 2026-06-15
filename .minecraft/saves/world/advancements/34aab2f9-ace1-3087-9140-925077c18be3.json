@@ -9356,5 +9356,17 @@
     },
     "done": true
   },
+  "tfc:story/bellows": {
+    "criteria": {
+      "bellows": "2026-06-15 14:49:15 +0300"
+    },
+    "done": true
+  },
+  "immersivetechnology:recipes/tools/crafting/formation_tool": {
+    "criteria": {
+      "has_iron_ingot": "2026-06-15 14:49:26 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

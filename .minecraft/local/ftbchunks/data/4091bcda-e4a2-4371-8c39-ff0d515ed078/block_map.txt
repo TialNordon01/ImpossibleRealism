@@ -19,6 +19,7 @@
 #7C938F create:belt
 #FA2CC8 creatingspace:big_engine_structure
 #0A414C createdieselgenerators:biodiesel
+#B4B56F tfc_kac:bismuth_bronze_kiln
 #C034B5 tfc_kac:black_steel_kiln
 #64CB99 immersiveengineering:blast_furnace
 #649400 tfc:blast_furnace
