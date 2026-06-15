@@ -4,6 +4,7 @@
 #70F tfc:deep_ocean_trench
 #175 tfc:highlands
 #041 tfc:hills
+#6FC tfc:inverted_badlands
 #77E tfc:lake
 #32F tfc:low_canyons
 #303 tfc:lowlands

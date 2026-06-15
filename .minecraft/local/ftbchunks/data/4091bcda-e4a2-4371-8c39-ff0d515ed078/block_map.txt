@@ -18,6 +18,7 @@
 #D71D97 tfc:bellows
 #7C938F create:belt
 #FA2CC8 creatingspace:big_engine_structure
+#0A414C createdieselgenerators:biodiesel
 #C034B5 tfc_kac:black_steel_kiln
 #64CB99 immersiveengineering:blast_furnace
 #649400 tfc:blast_furnace
@@ -104,6 +105,7 @@
 #A2F675 tfc:deposit/native_silver/dolomite
 #D65794 tfc:deposit/native_silver/rhyolite
 #FF48B8 create:depot
+#A8AA44 createdieselgenerators:diesel
 #5728B1 createdieselgenerators:diesel_engine
 #BED665 minecraft:diorite
 #8EAA66 tfc:dirt/loam
@@ -117,6 +119,7 @@
 #B7B232 immersiveengineering:dynamo
 #91A5DB createaddition:electric_motor
 #819CF1 createaddition:electrum_block
+#BB9A4D createdieselgenerators:ethanol
 #271665 create:fake_track
 #E7A46A tfc:fire_bricks
 #94CD94 tfc:firepit
@@ -135,6 +138,7 @@
 #DDC0C3 create:fluid_tank
 #2DC94B minecraft:furnace
 #9D202E vs_clockwork:gas_thruster
+#6E7414 createdieselgenerators:gasoline
 #D60460 create:gearbox
 #9C3E7E create_new_age:generator_coil
 #0C2D58 vs_clockwork:goo_block
@@ -210,6 +214,7 @@
 #118319 tfc:ore/emerald/granite
 #0D263B tfc:ore/graphite/granite
 #D50A1F tfc:ore/gypsum/dolomite
+#D4BA5F tfc:ore/gypsum/shale
 #A0BD38 tfc:ore/halite/claystone
 #D6230A tfc:ore/halite/conglomerate
 #B8C205 tfc:ore/halite/dolomite
@@ -218,9 +223,11 @@
 #031D55 tfc:ore/lignite/conglomerate
 #7C99D0 tfc:ore/lignite/dolomite
 #4FCF32 tfc_ie_addon:ore/normal_bauxite/dolomite
+#1F071D tfc:ore/normal_bismuthinite/shale
 #8B7ACB tfc:ore/normal_cassiterite/diorite
 #F0E0AB firmalife:ore/normal_chromite/basalt
 #553308 tfc_ie_addon:ore/normal_galena/andesite
+#AE14C9 tfc_ie_addon:ore/normal_galena/diorite
 #434BCD tfc_ie_addon:ore/normal_galena/rhyolite
 #D31571 tfc:ore/normal_hematite/andesite
 #868011 tfc:ore/normal_hematite/basalt
@@ -228,6 +235,7 @@
 #15AE48 tfc:ore/normal_limonite/conglomerate
 #8B9C43 tfc:ore/normal_limonite/dolomite
 #7992F4 tfc:ore/normal_magnetite/dolomite
+#CFE9AA tfc:ore/normal_magnetite/shale
 #FC1B9D tfc:ore/normal_native_copper/andesite
 #53213D tfc:ore/normal_native_copper/basalt
 #B5AB7C tfc:ore/normal_native_copper/dacite
@@ -235,9 +243,11 @@
 #4485D1 tfc:ore/normal_sphalerite/basalt
 #4F4A17 tfc_ie_addon:ore/poor_bauxite/dolomite
 #604661 tfc:ore/poor_bismuthinite/conglomerate
+#2B5CC2 tfc:ore/poor_bismuthinite/shale
 #53F526 firmalife:ore/poor_chromite/basalt
 #B84783 tfc_ie_addon:ore/poor_galena/andesite
 #A15523 tfc_ie_addon:ore/poor_galena/basalt
+#A904EE tfc_ie_addon:ore/poor_galena/diorite
 #A66048 tfc_ie_addon:ore/poor_galena/rhyolite
 #C2F72C tfc:ore/poor_hematite/andesite
 #E9948C tfc:ore/poor_hematite/basalt
@@ -246,6 +256,7 @@
 #7B7DFE tfc:ore/poor_limonite/dolomite
 #C5DF9E tfc:ore/poor_magnetite/conglomerate
 #85E899 tfc:ore/poor_magnetite/dolomite
+#32FE25 tfc:ore/poor_magnetite/shale
 #5AF75D tfc:ore/poor_malachite/dolomite
 #EB16C2 tfc:ore/poor_native_copper/andesite
 #A0A1A2 tfc:ore/poor_native_copper/basalt
@@ -262,10 +273,12 @@
 #0663BD tfc:ore/rich_limonite/conglomerate
 #B35438 tfc:ore/rich_limonite/dolomite
 #48D99F tfc:ore/rich_magnetite/dolomite
+#FF1ADF tfc:ore/rich_magnetite/shale
 #2214C8 tfc:ore/rich_native_copper/andesite
 #6B6928 tfc:ore/rich_native_copper/basalt
 #6C3DC6 tfc:ore/rich_sphalerite/basalt
 #785004 tfc:ore/saltpeter/chalk
+#59C80E tfc:ore/saltpeter/shale
 #7637A1 tfc:ore/sapphire/diorite
 #2F7A48 tfc_ie_addon:ore/small_bauxite
 #F2CFA1 tfc:ore/small_bismuthinite
@@ -309,6 +322,7 @@
 #2DDC28 tfc:plant/red_apple_branch
 #964878 tfc:plant/red_apple_growing_branch
 #D355DE tfc:plant/winged_kelp
+#7D4C68 createdieselgenerators:plant_oil
 #652575 immersivepetroleum:pumpjack
 #B68C20 createdieselgenerators:pumpjack_bearing
 #6B0283 createdieselgenerators:pumpjack_bearing_b
@@ -361,6 +375,7 @@
 #7B8613 tfc:rock/gravel/granite
 #CFA40A tfc:rock/gravel/marble
 #4B43C7 tfc:rock/gravel/rhyolite
+#16D676 tfc:rock/gravel/shale
 #18A8EA tfc:rock/gravel/slate
 #755F96 tfc:rock/hardened/andesite
 #0F0F76 tfc:rock/hardened/basalt
@@ -381,6 +396,7 @@
 #9F0FDF tfc:rock/loose/andesite
 #4A3DFF tfc:rock/loose/basalt
 #47EEAF tfc:rock/loose/chalk
+#47FE76 tfc:rock/loose/chert
 #78688A tfc:rock/loose/conglomerate
 #ACC83E tfc:rock/loose/dacite
 #E3DCC6 tfc:rock/loose/diorite
@@ -397,6 +413,7 @@
 #6F00E9 tfc:rock/mossy_cobble/diorite
 #3327C2 tfc:rock/mossy_cobble/dolomite
 #6688E1 tfc:rock/mossy_cobble/rhyolite
+#65379C tfc:rock/mossy_cobble/shale
 #E33C67 tfc:rock/mossy_loose/andesite
 #3FEC87 tfc:rock/mossy_loose/basalt
 #431112 tfc:rock/mossy_loose/conglomerate
@@ -451,6 +468,7 @@
 #C424CD tfc:sand/white
 #A4EE4E tfc:sand/yellow
 #7E2654 minecraft:sandstone
+#60B81F minecraft:scaffolding
 #D3CCFE create:shaft
 #0EA601 tfc:sheet_pile
 #8B3F27 immersiveengineering:sheetmetal_iron
