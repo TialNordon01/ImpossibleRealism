@@ -13739,6 +13739,12 @@
     },
     "done": true
   },
+  "tfc_kac:babies_first_factory": {
+    "criteria": {
+      "babies_first_factory_0": "2026-06-15 15:20:27 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2026-06-15 15:22:58 +0300"
@@ -14021,12 +14027,6 @@
     },
     "done": true
   },
-  "tfc_kac:babies_first_factory": {
-    "criteria": {
-      "babies_first_factory_0": "2026-06-15 15:20:27 +0300"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/palettes/windows/lime_single_pane_locometal_window": {
     "criteria": {
       "has_item": "2026-06-15 15:22:58 +0300"
@@ -14078,6 +14078,894 @@
   "railways:recipes/misc/crafting/palettes/windows/royal_blue_single_pane_locometal_window": {
     "criteria": {
       "has_item": "2026-06-15 15:22:58 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:root": {
+    "criteria": {
+      "0": "2026-06-15 22:00:20 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:uranium_liquid": {
+    "criteria": {
+      "0": "2026-06-15 22:00:20 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/enriching_campfire": {
+    "criteria": {
+      "has_enriched_soul_soil": "2026-06-15 22:00:30 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:reactor_casing": {
+    "criteria": {
+      "0": "2026-06-15 22:01:57 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/decorations/crafting/reactor/reinforced_glass": {
+    "criteria": {
+      "has_reactor_casing": "2026-06-15 22:01:57 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:reactor_core": {
+    "criteria": {
+      "0": "2026-06-15 22:01:58 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:reactor_frame": {
+    "criteria": {
+      "0": "2026-06-15 22:02:00 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:reactor_cooler": {
+    "criteria": {
+      "0": "2026-06-15 22:02:01 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:reactor_input": {
+    "criteria": {
+      "0": "2026-06-15 22:02:02 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:reactor_output": {
+    "criteria": {
+      "0": "2026-06-15 22:02:07 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:reactor_controller": {
+    "criteria": {
+      "0": "2026-06-15 22:02:08 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/reactor_blueprint_item": {
+    "criteria": {
+      "has_reactor_controller": "2026-06-15 22:02:08 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/shapeless/reactor_blueprint_item_clear": {
+    "criteria": {
+      "has_reactor_blueprint": "2026-06-15 22:02:08 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:reinforced_glass": {
+    "criteria": {
+      "0": "2026-06-15 22:02:10 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:graphite_rod": {
+    "criteria": {
+      "0": "2026-06-15 22:03:15 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:uranium_rod": {
+    "criteria": {
+      "0": "2026-06-15 22:03:16 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/steel_ingot_from_decompacting": {
+    "criteria": {
+      "has_storage_blocks_steel": "2026-06-15 22:08:54 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:uranium_powder": {
+    "criteria": {
+      "0": "2026-06-15 22:12:25 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:yellowcake": {
+    "criteria": {
+      "0": "2026-06-15 22:12:27 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:enriched_yellowcake": {
+    "criteria": {
+      "0": "2026-06-15 22:12:30 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:graphene": {
+    "criteria": {
+      "0": "2026-06-16 00:02:30 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/smelting/raw_uranium_for_uranium_ore": {
+    "criteria": {
+      "has_item": "2026-06-16 00:31:21 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/blasting/raw_uranium_for_uranium_ore": {
+    "criteria": {
+      "has_item": "2026-06-16 00:31:21 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/blasting/lead_ingot_for_lead_ore": {
+    "criteria": {
+      "has_item": "2026-06-16 00:31:25 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/smelting/lead_ingot_for_lead_ore": {
+    "criteria": {
+      "has_item": "2026-06-16 00:31:25 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/raw_uranium_from_decompacting": {
+    "criteria": {
+      "has_storage_blocks_raw_uranium": "2026-06-16 00:31:26 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/raw_lead_from_decompacting": {
+    "criteria": {
+      "has_storage_blocks_raw_lead": "2026-06-16 00:31:27 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/steel_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2026-06-16 00:32:00 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/smelting/lead_ingot_for_raw_lead": {
+    "criteria": {
+      "has_item": "2026-06-16 00:33:40 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/blasting/lead_ingot_for_raw_lead": {
+    "criteria": {
+      "has_item": "2026-06-16 00:33:40 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:raw_lead": {
+    "criteria": {
+      "0": "2026-06-16 00:33:40 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/decorations/crafting/raw_lead_block": {
+    "criteria": {
+      "has_raw_materials_lead": "2026-06-16 00:33:40 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:raw_uranium": {
+    "criteria": {
+      "0": "2026-06-16 00:33:42 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/decorations/crafting/raw_uranium_block": {
+    "criteria": {
+      "has_raw_materials_uranium": "2026-06-16 00:33:42 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:coal_dust": {
+    "criteria": {
+      "0": "2026-06-16 00:33:50 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:reactor_blueprint": {
+    "criteria": {
+      "0": "2026-06-16 00:34:04 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/lead_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2026-06-16 00:39:39 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:anti_radiation_armor": {
+    "criteria": {
+      "0": "2026-06-16 00:44:18 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/green_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/white_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/cyan_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/purple_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/cyan_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/magenta_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/magenta_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/blue_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/yellow_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/white_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/gray_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/pink_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/light_gray_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/lime_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/brown_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/blue_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/red_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/white_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/light_blue_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/orange_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/red_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/light_gray_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/yellow_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/light_blue_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/anti_radiation_boots": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/brown_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/light_gray_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/black_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/orange_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/lime_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/red_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/cyan_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/black_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/purple_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/magenta_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/light_gray_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/brown_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/pink_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/purple_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/green_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/orange_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/lime_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/pink_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/green_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/light_blue_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/yellow_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/white_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/magenta_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/cyan_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/yellow_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/green_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/orange_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/light_blue_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/black_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/blue_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/blue_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/gray_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/black_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/brown_anti_radiation_chestplate": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/gray_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/pink_anti_radiation_leggings": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/purple_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/shapeless/cloth/gray_cloth": {
+    "criteria": {
+      "has_white_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/red_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/combat/crafting/items/armors/lime_anti_radiation_helmet": {
+    "criteria": {
+      "has_cloth": "2026-06-16 00:44:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/layered_autunite_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_bricks_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_wall_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/polished_cut_autunite_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_stairs_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_slab_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/polished_cut_autunite_wall_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/small_autunite_brick_slab_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_brick_stairs_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/autunite_pillar_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/small_autunite_brick_wall_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_brick_slab_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/polished_cut_autunite_slab_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/autunite_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/polished_cut_autunite_stairs_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/small_autunite_brick_stairs_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/small_autunite_brick_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_brick_wall_from_stone_types_autunite_stonecutting": {
+    "criteria": {
+      "has_stone_types_autunite": "2026-06-16 00:44:33 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_wall": {
+    "criteria": {
+      "has_cut_autunite": "2026-06-16 00:48:28 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_slab": {
+    "criteria": {
+      "has_cut_autunite": "2026-06-16 00:48:28 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_stairs": {
+    "criteria": {
+      "has_cut_autunite": "2026-06-16 00:48:28 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_slab_recycling": {
+    "criteria": {
+      "has_cut_autunite_slab": "2026-06-16 00:48:37 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_brick_stairs": {
+    "criteria": {
+      "has_cut_autunite_bricks": "2026-06-16 00:48:38 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_brick_wall": {
+    "criteria": {
+      "has_cut_autunite_bricks": "2026-06-16 00:48:38 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_brick_slab": {
+    "criteria": {
+      "has_cut_autunite_bricks": "2026-06-16 00:48:38 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/cut_autunite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_autunite_brick_slab": "2026-06-16 00:48:39 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/small_autunite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_autunite_brick_slab": "2026-06-16 00:48:40 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/polished_cut_autunite_slab": {
+    "criteria": {
+      "has_polished_cut_autunite": "2026-06-16 00:48:41 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/polished_cut_autunite_wall": {
+    "criteria": {
+      "has_polished_cut_autunite": "2026-06-16 00:48:41 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/polished_cut_autunite_stairs": {
+    "criteria": {
+      "has_polished_cut_autunite": "2026-06-16 00:48:41 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/polished_cut_autunite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_autunite_slab": "2026-06-16 00:48:42 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/small_autunite_brick_slab": {
+    "criteria": {
+      "has_small_autunite_brick": "2026-06-16 00:57:03 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/small_autunite_brick_stairs": {
+    "criteria": {
+      "has_small_autunite_brick": "2026-06-16 00:57:03 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/building_blocks/small_autunite_brick_wall": {
+    "criteria": {
+      "has_small_autunite_brick": "2026-06-16 00:57:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2026-06-16 12:29:42 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/shale_brick": {
+    "criteria": {
+      "has_item": "2026-06-16 12:32:26 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/shale_loose_rocks_to_cobble": {
+    "criteria": {
+      "has_item": "2026-06-16 12:32:26 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/shale_brick_from_mossy": {
+    "criteria": {
+      "has_item": "2026-06-16 12:32:26 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_to_slab": {
+    "criteria": {
+      "has_storage_uranium": "2026-06-16 12:41:55 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_from_slab": {
+    "criteria": {
+      "has_storage_uranium": "2026-06-16 12:41:55 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:steel_ingot": {
+    "criteria": {
+      "0": "2026-06-16 13:01:23 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/steel_block_from_compacting": {
+    "criteria": {
+      "has_item": "2026-06-16 13:01:23 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/steel_nugget_from_decompacting": {
+    "criteria": {
+      "has_storage_blocks_steel_nugget": "2026-06-16 13:01:23 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/lead_ingot_from_decompacting": {
+    "criteria": {
+      "has_storage_blocks_lead": "2026-06-16 13:02:28 +0300"
     },
     "done": true
   },
