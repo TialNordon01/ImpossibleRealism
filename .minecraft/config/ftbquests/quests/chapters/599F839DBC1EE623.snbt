@@ -777,10 +777,7 @@
 			y: 4.5d
 		}
 		{
-			dependencies: [
-				"6F60BFB8BA1394BF"
-				"14EEFF76D61F2E2C"
-			]
+			dependencies: ["6F60BFB8BA1394BF"]
 			id: "60C56C4AE04BA8D8"
 			subtitle: "Электрические качели"
 			tasks: [{
@@ -793,6 +790,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["60C56C4AE04BA8D8"]
 			id: "14EEFF76D61F2E2C"
 			subtitle: "Неуправляемый"
 			tasks: [{

@@ -12,7 +12,7 @@ any_context = false
 category = "key.plasmovoice.general"
 
 [[key_bindings.keys]]
-code = 48
+code = 45
 type = "KEYSYM"
 
 [[key_bindings]]
@@ -30,7 +30,7 @@ any_context = false
 category = "hidden"
 
 [[key_bindings.keys]]
-code = 45
+code = 61
 type = "KEYSYM"
 
 [voice]

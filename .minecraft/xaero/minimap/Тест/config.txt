@@ -11,5 +11,4 @@ ignoreHeightmaps:false
 
 //dimension types (DO NOT EDIT)
 dimensionType:minecraft$overworld:minecraft$overworld
-dimensionType:creatingspace$the_moon:creatingspace$the_moon
 //server waypoints
