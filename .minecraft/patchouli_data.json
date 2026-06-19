@@ -120,7 +120,8 @@
         "tfc:mechanics/anvils",
         "tfc:mechanics/heating",
         "tfc:firmalife/chocolate",
-        "tfc:firmalife/greenhouse"
+        "tfc:firmalife/greenhouse",
+        "tfc:getting_started/pottery"
       ],
       "bookmarks": [
         {

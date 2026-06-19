@@ -1,0 +1,6 @@
+#175 tfc:highlands
+#041 tfc:hills
+#15D tfc:old_mountains
+#5D8 tfc:plains
+#7FB tfc:river
+#5C7 tfc:rolling_hills

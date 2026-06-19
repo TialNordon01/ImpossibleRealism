@@ -1,33 +1,33 @@
-[16:31:43] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[16:31:43] [INIT] Loaded plugins:
-[16:31:43] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:31:43] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:31:43] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
-[16:31:43] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[16:31:43] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[16:31:43] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[16:31:43] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
-[16:31:43] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
-[16:31:43] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
-[16:31:43] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
-[16:31:43] [INIT] - com.notenoughmail.kubejs_tfc.addons.artisanal.ArtisanalPlugin
-[16:31:43] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[16:31:45] [INIT] KubeJS TFC configuration:
-[16:31:45] [INIT] - Debug mode enabled: false
-[16:31:45] [INIT] - Self tests console insertion enabled: true
-[16:31:45] [INIT] - Self tests warnings deduplicated: true
-[16:31:45] [INFO] Loaded script server_scripts:example.js in 0.005 s
-[16:31:45] [INFO] Loaded 1/1 KubeJS server scripts in 0.012 s with 0 errors and 0 warnings
-[16:31:45] [INFO] Scripts loaded
-[16:31:45] [INFO] Initializing recipe event...
-[16:31:46] [INFO] [minecraft:block] Found 879 tags, added 0 objects, removed 40 objects
-[16:31:46] [INFO] [minecraft:item] Found 2310 tags, added 53 objects, removed 28 objects
-[16:31:47] [INFO] Processing recipes...
-[16:31:47] [WARN] Failed to parse recipe 'textile:clothing/raw/socks[tfc:knapping]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[16:31:47] [WARN] Failed to parse recipe 'tfc_smelting_cobble:steel_blast_furnace_insulation[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[16:31:47] [WARN] Failed to parse recipe 'tfc_medicine:hasted_bandage_r_2[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[16:31:47] [INFO] Found 19557 recipes in 146.7 ms
-[16:31:48] [INFO] Posted recipe events in 1.363 s
-[16:31:48] [WARN] Error parsing recipe chiselsandbits:bag_dyeing[tfc:barrel_sealed]: {"__comment__":"This file was automatically created by mcresources","type":"tfc:barrel_sealed","input_item":{"ingredient":{"item":"chiselsandbits:bit_bag"}},"input_fluid":{"ingredient":"tfc:white_dye","amount":25},"output_item":{"item":"chiselsandbits:bag_dyeing"},"duration":1000}: Unknown item 'chiselsandbits:bag_dyeing'
-[16:31:48] [WARN] Error parsing recipe create:kjs/6s60j2x010pulfuap04aycexn[create:mixing]: {"type":"create:mixing","results":[{"item":"tfc:glue","count":2}],"ingredients":[{"item":"immersivepetroleum:bitumen"},{"fluid":"minecraft:empty","nbt":{},"amount":0},{"item":"tfc:powder/lime"}],"heatRequirement":"heated"}: Invalid empty fluid 'minecraft:empty'
-[16:31:48] [INFO] Added 445 recipes, removed 395 recipes, modified 1476 recipes, with 2 failed recipes in 68.93 ms
+[18:05:42] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:05:42] [INIT] Loaded plugins:
+[18:05:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:05:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:05:42] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[18:05:42] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[18:05:42] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[18:05:42] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[18:05:42] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[18:05:42] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[18:05:42] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
+[18:05:42] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[18:05:42] [INIT] - com.notenoughmail.kubejs_tfc.addons.artisanal.ArtisanalPlugin
+[18:05:42] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[18:05:44] [INIT] KubeJS TFC configuration:
+[18:05:44] [INIT] - Debug mode enabled: false
+[18:05:44] [INIT] - Self tests console insertion enabled: true
+[18:05:44] [INIT] - Self tests warnings deduplicated: true
+[18:05:44] [INFO] Loaded script server_scripts:example.js in 0.015 s
+[18:05:44] [INFO] Loaded 1/1 KubeJS server scripts in 0.021 s with 0 errors and 0 warnings
+[18:05:44] [INFO] Scripts loaded
+[18:05:44] [INFO] Initializing recipe event...
+[18:05:45] [INFO] [minecraft:block] Found 879 tags, added 0 objects, removed 40 objects
+[18:05:45] [INFO] [minecraft:item] Found 2310 tags, added 53 objects, removed 28 objects
+[18:05:46] [INFO] Processing recipes...
+[18:05:46] [WARN] Failed to parse recipe 'textile:clothing/raw/socks[tfc:knapping]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[18:05:46] [WARN] Failed to parse recipe 'tfc_smelting_cobble:steel_blast_furnace_insulation[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[18:05:47] [WARN] Failed to parse recipe 'tfc_medicine:hasted_bandage_r_2[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[18:05:47] [INFO] Found 19557 recipes in 257.0 ms
+[18:05:48] [INFO] Posted recipe events in 1.786 s
+[18:05:48] [WARN] Error parsing recipe chiselsandbits:bag_dyeing[tfc:barrel_sealed]: {"__comment__":"This file was automatically created by mcresources","type":"tfc:barrel_sealed","input_item":{"ingredient":{"item":"chiselsandbits:bit_bag"}},"input_fluid":{"ingredient":"tfc:white_dye","amount":25},"output_item":{"item":"chiselsandbits:bag_dyeing"},"duration":1000}: Unknown item 'chiselsandbits:bag_dyeing'
+[18:05:48] [WARN] Error parsing recipe create:kjs/6s60j2x010pulfuap04aycexn[create:mixing]: {"type":"create:mixing","results":[{"item":"tfc:glue","count":2}],"ingredients":[{"item":"immersivepetroleum:bitumen"},{"fluid":"minecraft:empty","nbt":{},"amount":0},{"item":"tfc:powder/lime"}],"heatRequirement":"heated"}: Invalid empty fluid 'minecraft:empty'
+[18:05:48] [INFO] Added 445 recipes, removed 395 recipes, modified 1476 recipes, with 2 failed recipes in 95.07 ms

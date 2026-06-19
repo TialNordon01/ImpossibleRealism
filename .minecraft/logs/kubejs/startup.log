@@ -1,21 +1,21 @@
-[16:19:40] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[16:19:40] [INIT] Loaded plugins:
-[16:19:40] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:19:40] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:19:40] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
-[16:19:40] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[16:19:40] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[16:19:40] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[16:19:40] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
-[16:19:40] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
-[16:19:40] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
-[16:19:40] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
-[16:19:40] [INIT] - com.notenoughmail.kubejs_tfc.addons.artisanal.ArtisanalPlugin
-[16:19:40] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[16:19:41] [INIT] KubeJS TFC configuration:
-[16:19:41] [INIT] - Debug mode enabled: false
-[16:19:41] [INIT] - Self tests console insertion enabled: true
-[16:19:41] [INIT] - Self tests warnings deduplicated: true
-[16:19:42] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[16:19:42] [INFO] Loaded script startup_scripts:example.js in 0.125 s
-[16:19:42] [INFO] Loaded 1/1 KubeJS startup scripts in 1.76 s with 0 errors and 0 warnings
+[18:01:11] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:01:11] [INIT] Loaded plugins:
+[18:01:11] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:01:11] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:01:11] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[18:01:11] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[18:01:11] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[18:01:11] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[18:01:11] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[18:01:11] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[18:01:11] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
+[18:01:11] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[18:01:11] [INIT] - com.notenoughmail.kubejs_tfc.addons.artisanal.ArtisanalPlugin
+[18:01:11] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[18:01:13] [INIT] KubeJS TFC configuration:
+[18:01:13] [INIT] - Debug mode enabled: false
+[18:01:13] [INIT] - Self tests console insertion enabled: true
+[18:01:13] [INIT] - Self tests warnings deduplicated: true
+[18:01:13] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[18:01:13] [INFO] Loaded script startup_scripts:example.js in 0.153 s
+[18:01:13] [INFO] Loaded 1/1 KubeJS startup scripts in 1.531 s with 0 errors and 0 warnings

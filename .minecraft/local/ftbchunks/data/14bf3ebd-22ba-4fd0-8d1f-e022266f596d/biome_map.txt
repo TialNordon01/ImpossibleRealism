@@ -1,0 +1,3 @@
+#32F tfc:low_canyons
+#5D8 tfc:plains
+#5C7 tfc:rolling_hills
