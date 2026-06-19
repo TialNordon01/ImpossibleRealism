@@ -1,0 +1,4 @@
+#175 tfc:highlands
+#77E tfc:lake
+#7B9 tfc:plateau
+#7FB tfc:river
