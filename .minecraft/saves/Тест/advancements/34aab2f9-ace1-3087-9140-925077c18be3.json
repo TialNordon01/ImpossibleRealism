@@ -1,0 +1,297 @@
+{
+  "immersivepetroleum:recipes/misc/upgrade_tank": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/auto_lubricator": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-19 18:11:29 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/paraffin_wax_to_block": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/gas_generator": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/weathered_cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/oil_can": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "tfc_medicine:tfcm_root": {
+    "criteria": {
+      "tfcm_root_0": "2026-06-19 18:11:29 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/petcoke_items_to_block": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/copper_block_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/adventuring_time": {
+    "criteria": {
+      "hills": "2026-06-19 18:11:19 +0300"
+    },
+    "done": false
+  },
+  "immersivepetroleum:recipes/misc/molotov_wool": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "firmalife:story/root": {
+    "criteria": {
+      "in_game_condition": "2026-06-19 18:11:29 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/flarestack": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/asphalt": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/exposed_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/paraffin_wax_block_to_items": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/oxidized_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/toolupgrade_drill_lube": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/upgrade_paddles": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/exposed_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/petcoke_block_to_items": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/upgrade_icebreaker": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/asphalt2": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/asphalt_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/seismic_survey_tool": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/molotov_fabric": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/exposed_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/weathered_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/asphalt_stair": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/candle": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/speedboat": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/weathered_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/exposed_cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "tfc_aol:tfc_aol_root": {
+    "criteria": {
+      "tfc_aol_root_0": "2026-06-19 18:11:29 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/oxidized_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/projector": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/upgrade_rudders": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/ersatz_leather": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/oxidized_cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2026-06-19 18:11:29 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/weathered_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/oxidized_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/misc/upgrade_reinforced_hull": {
+    "criteria": {
+      "has_the_recipe": "2026-06-19 18:11:18 +0300"
+    },
+    "done": true
+  },
+  "advancedtfctech:story/root": {
+    "criteria": {
+      "in_game_condition": "2026-06-19 18:11:29 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/root": {
+    "criteria": {
+      "in_game_condition": "2026-06-19 18:11:29 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

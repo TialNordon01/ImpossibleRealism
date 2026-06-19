@@ -1,0 +1,18 @@
+{
+	version: 1
+	uuid: "34aab2f9ace130879140925077c18be3"
+	name: "tial_nordon#34aab2f9"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: {
+		34aab2f9ace130879140925077c18be3: {
+			can_edit: 1b
+		}
+	}
+}
