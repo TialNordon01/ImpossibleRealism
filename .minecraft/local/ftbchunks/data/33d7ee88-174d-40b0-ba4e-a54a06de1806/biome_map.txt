@@ -1,0 +1,7 @@
+#175 tfc:highlands
+#77E tfc:lake
+#575 tfc:mountains
+#5D8 tfc:old_mountain_lake
+#15D tfc:old_mountains
+#7B9 tfc:plateau
+#7FB tfc:river

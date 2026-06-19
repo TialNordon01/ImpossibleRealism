@@ -159,6 +159,7 @@
 		}
 		{
 			dependencies: ["2C2B768AA589B7AD"]
+			dependency_requirement: "one_started"
 			id: "0D98545A9A71429D"
 			subtitle: "Разведите костёр!"
 			tasks: [{
@@ -521,6 +522,7 @@
 		}
 		{
 			dependencies: ["2C2B768AA589B7AD"]
+			dependency_requirement: "one_started"
 			id: "28AD72C437AD1249"
 			subtitle: "Хорош для сварки и ковки"
 			tasks: [
@@ -625,6 +627,7 @@
 		}
 		{
 			dependencies: ["2C2B768AA589B7AD"]
+			dependency_requirement: "one_started"
 			id: "10A62E0BC61961BE"
 			subtitle: "Травяная"
 			tasks: [{

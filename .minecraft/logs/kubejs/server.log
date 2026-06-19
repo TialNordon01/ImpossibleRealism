@@ -1,25 +1,25 @@
-[21:53:29] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[21:53:29] [INIT] Loaded plugins:
-[21:53:29] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[21:53:29] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[21:53:29] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
-[21:53:29] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[21:53:29] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[21:53:29] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[21:53:29] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
-[21:53:29] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
-[21:53:29] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
-[21:53:29] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
-[21:53:29] [INIT] - com.notenoughmail.kubejs_tfc.addons.artisanal.ArtisanalPlugin
-[21:53:29] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[21:53:30] [INIT] KubeJS TFC configuration:
-[21:53:30] [INIT] - Debug mode enabled: false
-[21:53:30] [INIT] - Self tests console insertion enabled: true
-[21:53:30] [INIT] - Self tests warnings deduplicated: true
-[21:53:30] [INFO] Loaded script server_scripts:example.js in 0.021 s
-[21:53:30] [INFO] Loaded 1/1 KubeJS server scripts in 0.028 s with 0 errors and 0 warnings
-[21:53:30] [INFO] Scripts loaded
-[21:53:30] [INFO] Initializing recipe event...
-[21:53:30] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
-[21:53:30] [WARN] You can still see the full log (including past reloads) in your latest.log file.
-[21:53:44] [INFO] Server resource reload complete!
+[13:51:30] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[13:51:30] [INIT] Loaded plugins:
+[13:51:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[13:51:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[13:51:30] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[13:51:30] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[13:51:30] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[13:51:30] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[13:51:30] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[13:51:30] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[13:51:30] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
+[13:51:30] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[13:51:30] [INIT] - com.notenoughmail.kubejs_tfc.addons.artisanal.ArtisanalPlugin
+[13:51:30] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[13:51:30] [INIT] KubeJS TFC configuration:
+[13:51:30] [INIT] - Debug mode enabled: false
+[13:51:30] [INIT] - Self tests console insertion enabled: true
+[13:51:30] [INIT] - Self tests warnings deduplicated: true
+[13:51:30] [INFO] Loaded script server_scripts:example.js in 0.017 s
+[13:51:30] [INFO] Loaded 1/1 KubeJS server scripts in 0.025 s with 0 errors and 0 warnings
+[13:51:30] [INFO] Scripts loaded
+[13:51:30] [INFO] Initializing recipe event...
+[13:51:30] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[13:51:30] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[13:51:47] [INFO] Server resource reload complete!
