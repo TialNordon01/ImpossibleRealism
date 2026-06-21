@@ -121,7 +121,10 @@
         "tfc:mechanics/heating",
         "tfc:firmalife/chocolate",
         "tfc:firmalife/greenhouse",
-        "tfc:getting_started/pottery"
+        "tfc:getting_started/pottery",
+        "tfc:firmalife/smoking",
+        "tfc:firmalife/berry_bushes",
+        "tfc:firmalife/wine"
       ],
       "bookmarks": [
         {

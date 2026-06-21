@@ -1,25 +1,34 @@
-[18:10:41] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[18:10:41] [INIT] Loaded plugins:
-[18:10:41] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[18:10:41] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[18:10:41] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
-[18:10:41] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[18:10:41] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[18:10:41] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[18:10:41] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
-[18:10:41] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
-[18:10:41] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
-[18:10:41] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
-[18:10:41] [INIT] - com.notenoughmail.kubejs_tfc.addons.artisanal.ArtisanalPlugin
-[18:10:41] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[18:10:42] [INIT] KubeJS TFC configuration:
-[18:10:42] [INIT] - Debug mode enabled: false
-[18:10:42] [INIT] - Self tests console insertion enabled: true
-[18:10:42] [INIT] - Self tests warnings deduplicated: true
-[18:10:42] [INFO] Loaded script server_scripts:example.js in 0.017 s
-[18:10:42] [INFO] Loaded 1/1 KubeJS server scripts in 0.024 s with 0 errors and 0 warnings
-[18:10:42] [INFO] Scripts loaded
-[18:10:42] [INFO] Initializing recipe event...
-[18:10:42] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
-[18:10:42] [WARN] You can still see the full log (including past reloads) in your latest.log file.
-[18:10:58] [INFO] Server resource reload complete!
+[18:56:03] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:56:03] [INIT] Loaded plugins:
+[18:56:03] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:56:03] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:56:03] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[18:56:03] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[18:56:03] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[18:56:03] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[18:56:03] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[18:56:03] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[18:56:03] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
+[18:56:03] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[18:56:03] [INIT] - com.notenoughmail.kubejs_tfc.addons.artisanal.ArtisanalPlugin
+[18:56:03] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[18:56:04] [INIT] KubeJS TFC configuration:
+[18:56:04] [INIT] - Debug mode enabled: false
+[18:56:04] [INIT] - Self tests console insertion enabled: true
+[18:56:04] [INIT] - Self tests warnings deduplicated: true
+[18:56:04] [INFO] Loaded script server_scripts:example.js in 0.025 s
+[18:56:04] [INFO] Loaded 1/1 KubeJS server scripts in 0.04 s with 0 errors and 0 warnings
+[18:56:04] [INFO] Scripts loaded
+[18:56:05] [INFO] Initializing recipe event...
+[18:56:06] [INFO] [minecraft:block] Found 879 tags, added 0 objects, removed 40 objects
+[18:56:06] [INFO] [minecraft:item] Found 2310 tags, added 53 objects, removed 28 objects
+[18:56:09] [INFO] Processing recipes...
+[18:56:09] [WARN] Failed to parse recipe 'textile:clothing/raw/socks[tfc:knapping]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[18:56:09] [WARN] Failed to parse recipe 'tfc_smelting_cobble:steel_blast_furnace_insulation[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[18:56:09] [WARN] Failed to parse recipe 'tfc_medicine:hasted_bandage_r_2[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[18:56:09] [INFO] Found 19557 recipes in 553.2 ms
+[18:56:12] [INFO] Posted recipe events in 2.551 s
+[18:56:12] [WARN] Error parsing recipe chiselsandbits:bag_dyeing[tfc:barrel_sealed]: {"__comment__":"This file was automatically created by mcresources","type":"tfc:barrel_sealed","input_item":{"ingredient":{"item":"chiselsandbits:bit_bag"}},"input_fluid":{"ingredient":"tfc:white_dye","amount":25},"output_item":{"item":"chiselsandbits:bag_dyeing"},"duration":1000}: Unknown item 'chiselsandbits:bag_dyeing'
+[18:56:12] [WARN] Error parsing recipe create:kjs/6s60j2x010pulfuap04aycexn[create:mixing]: {"type":"create:mixing","results":[{"item":"tfc:glue","count":2}],"ingredients":[{"item":"immersivepetroleum:bitumen"},{"fluid":"minecraft:empty","nbt":{},"amount":0},{"item":"tfc:powder/lime"}],"heatRequirement":"heated"}: Invalid empty fluid 'minecraft:empty'
+[18:56:12] [INFO] Added 445 recipes, removed 395 recipes, modified 1476 recipes, with 2 failed recipes in 247.5 ms
+[18:56:27] [INFO] Server resource reload complete!
