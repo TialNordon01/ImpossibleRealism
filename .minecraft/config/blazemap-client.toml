@@ -23,7 +23,7 @@
 
 [worldmap]
 	#List of disabled Layers, comma separated
-	activeMap = "cartography:ecosystem"
+	activeMap = "cartography:geology"
 	#List of disabled Layers, comma separated
 	disabledLayers = []
 	#Zoom level. Must be a power of 2

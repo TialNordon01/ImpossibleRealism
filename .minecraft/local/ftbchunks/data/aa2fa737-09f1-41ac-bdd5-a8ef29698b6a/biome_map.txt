@@ -1,4 +1,5 @@
 #0F2 tfc:badlands
+#175 tfc:highlands
 #041 tfc:hills
 #6FC tfc:inverted_badlands
 #77E tfc:lake

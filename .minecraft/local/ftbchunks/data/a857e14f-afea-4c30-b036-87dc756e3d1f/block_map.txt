@@ -34,6 +34,7 @@
 #91A5DB createaddition:electric_motor
 #768B42 tfc:fluid/salt_water
 #9525D4 artisanal:fluid/sour_crude_oil
+#0C2D58 vs_clockwork:goo_block
 #84C04E firmalife:grape_fluff_red
 #013B97 tfc:grass/loam
 #CF7661 tfc:grass/sandy_loam

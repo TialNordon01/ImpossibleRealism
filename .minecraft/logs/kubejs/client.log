@@ -1,25 +1,25 @@
-[18:55:00] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[18:55:00] [INIT] Loaded plugins:
-[18:55:00] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[18:55:00] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[18:55:00] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
-[18:55:00] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[18:55:00] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[18:55:00] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[18:55:00] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
-[18:55:00] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
-[18:55:00] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
-[18:55:00] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
-[18:55:00] [INIT] - com.notenoughmail.kubejs_tfc.addons.artisanal.ArtisanalPlugin
-[18:55:00] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[18:55:00] [INIT] KubeJS TFC configuration:
-[18:55:00] [INIT] - Debug mode enabled: false
-[18:55:00] [INIT] - Self tests console insertion enabled: true
-[18:55:00] [INIT] - Self tests warnings deduplicated: true
-[18:55:00] [ERROR] ! example.js#1: Tried to register event handler 'ServerEvents.tags' for invalid script type CLIENT! Valid script types: [SERVER]
-[18:55:00] [ERROR] ! example.js#88: Tried to register event handler 'ServerEvents.recipes' for invalid script type CLIENT! Valid script types: [SERVER]
-[18:55:00] [ERROR] ! example.js#2504: Tried to register event handler 'ServerEvents.tags' for invalid script type CLIENT! Valid script types: [SERVER]
-[18:55:00] [ERROR] ! example.js#2551: Tried to register event handler 'PlayerEvents.loggedIn' for invalid script type CLIENT! Valid script types: [SERVER]
-[18:55:00] [INFO] Loaded script client_scripts:example.js in 0.14 s
-[18:55:00] [INFO] Loaded 1/1 KubeJS client scripts in 0.181 s with 0 errors and 0 warnings
-[18:55:13] [INFO] Client resource reload complete!
+[16:03:12] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[16:03:12] [INIT] Loaded plugins:
+[16:03:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:03:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[16:03:12] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[16:03:12] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[16:03:12] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[16:03:12] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[16:03:12] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[16:03:12] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[16:03:12] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
+[16:03:12] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[16:03:12] [INIT] - com.notenoughmail.kubejs_tfc.addons.artisanal.ArtisanalPlugin
+[16:03:12] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[16:03:12] [INIT] KubeJS TFC configuration:
+[16:03:12] [INIT] - Debug mode enabled: false
+[16:03:12] [INIT] - Self tests console insertion enabled: true
+[16:03:12] [INIT] - Self tests warnings deduplicated: true
+[16:03:12] [ERROR] ! example.js#1: Tried to register event handler 'ServerEvents.tags' for invalid script type CLIENT! Valid script types: [SERVER]
+[16:03:12] [ERROR] ! example.js#88: Tried to register event handler 'ServerEvents.recipes' for invalid script type CLIENT! Valid script types: [SERVER]
+[16:03:12] [ERROR] ! example.js#2504: Tried to register event handler 'ServerEvents.tags' for invalid script type CLIENT! Valid script types: [SERVER]
+[16:03:12] [ERROR] ! example.js#2551: Tried to register event handler 'PlayerEvents.loggedIn' for invalid script type CLIENT! Valid script types: [SERVER]
+[16:03:12] [INFO] Loaded script client_scripts:example.js in 0.145 s
+[16:03:12] [INFO] Loaded 1/1 KubeJS client scripts in 0.17 s with 0 errors and 0 warnings
+[16:03:23] [INFO] Client resource reload complete!
