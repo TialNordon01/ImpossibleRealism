@@ -9,6 +9,7 @@
 #E75835 tfc:clay_grass/loam
 #C9247F tfc:clay_grass/sandy_loam
 #8DF6D9 tfc:clay_grass/silty_loam
+#468304 minecraft:crafting_table
 #EE0100 tfc:deposit/cassiterite/basalt
 #423917 tfc:deposit/cassiterite/claystone
 #E426CB tfc:deposit/cassiterite/conglomerate
@@ -27,6 +28,7 @@
 #3C4DF0 tfc:dirt/sandy_loam
 #01204A tfc:dirt/silty_loam
 #606093 tfc:drying_bricks/loam
+#63490C tfc:farmland/loam
 #94CD94 tfc:firepit
 #4B42BB tfc_aol:flaming_stake
 #9525D4 artisanal:fluid/sour_crude_oil
@@ -47,6 +49,7 @@
 #6CB09B tfc:mud/sandy_loam
 #3182F5 tfc:mud/silty_loam
 #C26A78 tfc:mud_bricks/loam
+#DAD9AF tfc:mud_bricks/loam_wall
 #ABAE2A tfc:ore/bituminous_coal/claystone
 #1334D8 tfc:ore/bituminous_coal/conglomerate
 #F2EAD3 tfc:ore/bituminous_coal/dolomite
@@ -88,6 +91,7 @@
 #B7CB11 tfc:ore/small_tetrahedrite
 #875173 tfc:pit_kiln
 #28CFC4 tfc:placed_item
+#F632A8 tfc:plant/arundo
 #2F4154 tfc:plant/arundo_plant
 #476C53 tfc:plant/cherry_branch
 #9E7DA3 tfc:plant/cherry_growing_branch
@@ -184,6 +188,7 @@
 #C424CD tfc:sand/white
 #A4EE4E tfc:sand/yellow
 #AE05E3 tfcsleep:straw_bed
+#74A5D8 tfc:wood/chest/oak
 #A4803E afc:wood/fallen_leaves/balsam_fir
 #560605 tfc:wood/fallen_leaves/birch
 #AE04BE afc:wood/fallen_leaves/black_spruce
