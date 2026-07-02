@@ -2513,6 +2513,92 @@ ServerEvents.recipes(event => {
     'tfc:straw',
     '#tfc:knives'
   ]).damageIngredient('#tfc:knives')
+
+  //Телеги
+  woods_tfc.forEach(wood => {
+    // === SUPPLY CART (тележка с сундуками) ===
+    event.remove({ output: `tfcastikorcarts:supply_cart/${wood}` })
+    event.shaped(`tfcastikorcarts:supply_cart/${wood}`, [
+      'SSS',
+      'LLL',
+      'WPW'
+    ], {
+      S: '#forge:chests/wooden',
+      L: `tfc:wood/lumber/${wood}`,
+      W: `tfcastikorcarts:wheel/${wood}`,
+      P: '#forge:rods/wooden'
+    })
+
+    // === PLOW (плуг) ===
+    event.remove({ output: `tfcastikorcarts:plow/${wood}` })
+    event.shaped(`tfcastikorcarts:plow/${wood}`, [
+      'PPP',
+      'LLL',
+      'WPW'
+    ], {
+      P: '#forge:rods/wooden',
+      L: `tfc:wood/lumber/${wood}`,
+      W: `tfcastikorcarts:wheel/${wood}`
+    })
+
+    // === ANIMAL CART (тележка для животных) ===
+    event.remove({ output: `tfcastikorcarts:animal_cart/${wood}` })
+    event.shaped(`tfcastikorcarts:animal_cart/${wood}`, [
+      'LLL',
+      'LLL',
+      'WPW'
+    ], {
+      L: `tfc:wood/lumber/${wood}`,
+      W: `tfcastikorcarts:wheel/${wood}`,
+      P: '#forge:rods/wooden'
+    })
+  })
+  event.remove({ output: 'astikorcarts:wheel' })
+  woods_afc.forEach(wood => {
+    // Колесо
+    event.shaped('astikorcarts:wheel', [
+      'PPP',
+      'PLP',
+      'PPP'
+    ], {
+      P: '#forge:rods/wooden',
+      L: `afc:wood/lumber/${wood}`
+    })
+
+    // === SUPPLY CART (тележка с сундуками) ===
+    event.shaped(`tfcastikorcarts:supply_cart/oak`, [
+      'SSS',
+      'LLL',
+      'WPW'
+    ], {
+      S: '#forge:chests/wooden',
+      L: `afc:wood/lumber/${wood}`,
+      W: 'astikorcarts:wheel',
+      P: '#forge:rods/wooden'
+    })
+
+    // === PLOW (плуг) ===
+    event.shaped(`tfcastikorcarts:plow/oak`, [
+      'PPP',
+      'LLL',
+      'WPW'
+    ], {
+      P: '#forge:rods/wooden',
+      L: `afc:wood/lumber/${wood}`,
+      W: 'astikorcarts:wheel'
+    })
+
+    // === ANIMAL CART (тележка для животных) ===
+    event.shaped(`tfcastikorcarts:animal_cart/oak`, [
+      'LLL',
+      'LLL',
+      'WPW'
+    ], {
+      L: `afc:wood/lumber/${wood}`,
+      W: 'astikorcarts:wheel',
+      P: '#forge:rods/wooden'
+    })
+  })
 })
 
 

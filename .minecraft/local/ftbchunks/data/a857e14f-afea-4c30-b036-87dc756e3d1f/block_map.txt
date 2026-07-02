@@ -33,6 +33,7 @@
 #91C3D5 tfc:dirt/silt
 #01204A tfc:dirt/silty_loam
 #91A5DB createaddition:electric_motor
+#ECD816 tfc:farmland/sandy_loam
 #768B42 tfc:fluid/salt_water
 #9525D4 artisanal:fluid/sour_crude_oil
 #0C2D58 vs_clockwork:goo_block
@@ -110,6 +111,7 @@
 #EFA799 tfc:plant/olive_branch
 #9212E9 tfc:plant/olive_growing_branch
 #A42A43 tfc:plant/peach_branch
+#164B93 tfc:plant/peach_growing_branch
 #2DDC28 tfc:plant/red_apple_branch
 #964878 tfc:plant/red_apple_growing_branch
 #D355DE tfc:plant/winged_kelp

@@ -42,6 +42,7 @@
 #D98B69 tfc:groundcover/rotten_flesh
 #BADA1E tfc:groundcover/salt_lick
 #A51640 tfc:groundcover/stick
+#228015 minecraft:ladder
 #83CED3 minecraft:lava
 #3B473C tfc:log_pile
 #65D4A2 tfc:melon
@@ -64,6 +65,7 @@
 #292ABA tfc:ore/normal_limonite/claystone
 #15AE48 tfc:ore/normal_limonite/conglomerate
 #D6E479 tfc:ore/normal_magnetite/conglomerate
+#4EA1B8 tfc:ore/normal_malachite/dolomite
 #909329 tfc_ie_addon:ore/poor_bauxite/chalk
 #CCA51C tfc_ie_addon:ore/poor_bauxite/conglomerate
 #604661 tfc:ore/poor_bismuthinite/conglomerate
@@ -71,6 +73,7 @@
 #35805F tfc:ore/poor_limonite/claystone
 #783A83 tfc:ore/poor_limonite/conglomerate
 #C5DF9E tfc:ore/poor_magnetite/conglomerate
+#5AF75D tfc:ore/poor_malachite/dolomite
 #976CA2 tfc_ie_addon:ore/rich_bauxite/conglomerate
 #F87165 tfc:ore/rich_limonite/claystone
 #0663BD tfc:ore/rich_limonite/conglomerate
@@ -188,6 +191,7 @@
 #C424CD tfc:sand/white
 #A4EE4E tfc:sand/yellow
 #AE05E3 tfcsleep:straw_bed
+#78E3C2 tfc:wood/barrel/chestnut
 #74A5D8 tfc:wood/chest/oak
 #A4803E afc:wood/fallen_leaves/balsam_fir
 #560605 tfc:wood/fallen_leaves/birch
@@ -241,6 +245,7 @@
 #8C4BBC tfc:wood/twig/oak
 #A18CEB tfc:wood/twig/pine
 #6F063D tfc:wood/twig/spruce
+#EB7335 tfc:wood/vertical_support/hickory
 #6832B9 afc:wood/wood/ancient_pine
 #BBDB5F tfc:wood/wood/birch
 #34041B tfc:wood/wood/chestnut
