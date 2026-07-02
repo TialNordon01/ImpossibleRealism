@@ -98,6 +98,7 @@
 #2F4154 tfc:plant/arundo_plant
 #476C53 tfc:plant/cherry_branch
 #9E7DA3 tfc:plant/cherry_growing_branch
+#748FE4 tfc:plant/dry_phragmite
 #A9C190 tfc:plant/dry_phragmite_plant
 #8815F6 tfc:plant/green_apple_branch
 #B8D446 tfc:plant/green_apple_growing_branch
@@ -235,6 +236,8 @@
 #2BB81B tfc:wood/log/oak
 #EFAC6C tfc:wood/log/pine
 #B3497E tfc:wood/log/spruce
+#954D93 tfc:wood/planks/birch_fence_gate
+#A0C71F tfc:wood/planks/chestnut_fence_gate
 #6EA493 tfc:wood/twig/birch
 #B83E67 tfc:wood/twig/chestnut
 #E75363 afc:wood/twig/cypress

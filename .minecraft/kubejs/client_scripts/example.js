@@ -2599,6 +2599,24 @@ ServerEvents.recipes(event => {
       P: '#forge:rods/wooden'
     })
   })
+
+  // Удаляем все оригинальные рецепты угольного блока
+  // (из ванильного угля, charcoal и т.д.)
+  event.remove({ output: 'minecraft:coal_block' })
+  // Добавляем новый рецепт: 9 битумного угля TFC → 1 угольный блок
+  event.shaped('minecraft:coal_block', [
+    'CCC',
+    'CCC',
+    'CCC'
+  ], {
+    C: 'tfc:ore/bituminous_coal'
+  })
+  // Обратный рецепт: угольный блок → 9 битумного угля
+  event.remove({ output: 'minecraft:coal' })
+  event.shapeless('9x tfc:ore/bituminous_coal', [
+    'minecraft:coal_block'
+  ])
+
 })
 
 
