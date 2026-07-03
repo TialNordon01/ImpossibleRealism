@@ -1,0 +1,21 @@
+[15:26:04.947][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[15:26:05.015][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[15:26:05.122][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin jeitweaker:common
+[15:26:05.218][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[15:26:05.220][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[15:26:05.316][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[15:26:05.410][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:forge': loading scheduled
+[15:26:05.415][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:common': loading scheduled
+[15:26:05.543][INFO][JEITweaker]: JEITweaker Environmental Check: the combination of mods [jei] is fully supported
+[15:26:05.545][INFO][JEITweaker]: Running JeiTweaker plugin initialization
+[15:26:05.613][INFO][JEITweaker]: JeiTweaker plugin initialization completed successfully
+[15:26:08.952][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[15:26:08.957][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.60'
+[15:26:08.957][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.11'
+[15:26:08.957][INFO][CraftTweaker]: - 'immersiveengineering' at version '1.20.1-10.2.0-183'
+[15:26:08.957][INFO][CraftTweaker]: - 'immersivepetroleum' at version '4.3.0-36'
+[15:26:08.957][INFO][CraftTweaker]: - 'jeitweaker' at version '8.0.6'
+[15:26:22.897][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[15:26:23.589][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[15:26:23.784][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[15:26:23.998][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
