@@ -1,0 +1,7 @@
+#041 tfc:hills
+#6ED tfc:ocean
+#5D8 tfc:plains
+#7FB tfc:river
+#5C7 tfc:rolling_hills
+#25C tfc:shore
+#284 tfc:tidal_flats

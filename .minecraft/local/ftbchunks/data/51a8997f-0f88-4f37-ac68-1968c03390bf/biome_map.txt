@@ -1,0 +1,4 @@
+#041 tfc:hills
+#32F tfc:low_canyons
+#6ED tfc:ocean
+#5D8 tfc:plains

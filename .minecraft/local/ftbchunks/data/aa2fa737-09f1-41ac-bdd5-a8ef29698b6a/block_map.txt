@@ -18,6 +18,7 @@
 #C60563 tfc:deposit/native_copper/basalt
 #68B5D4 tfc:deposit/native_copper/claystone
 #B214EE tfc:deposit/native_copper/conglomerate
+#E101E2 tfc:deposit/native_copper/diorite
 #7EBE7C tfc:deposit/native_gold/basalt
 #D4BA1B tfc:deposit/native_gold/claystone
 #B7D747 tfc:deposit/native_gold/conglomerate
@@ -61,6 +62,7 @@
 #F2EAD3 tfc:ore/bituminous_coal/dolomite
 #C3AC2E tfc:ore/diamond/gabbro
 #5E955E tfc:ore/emerald/gabbro
+#118319 tfc:ore/emerald/granite
 #0D785E tfc:ore/gypsum/claystone
 #FCCE24 tfc:ore/gypsum/conglomerate
 #D50A1F tfc:ore/gypsum/dolomite
@@ -87,6 +89,7 @@
 #C5DF9E tfc:ore/poor_magnetite/conglomerate
 #A08DD7 tfc:ore/poor_malachite/chalk
 #5AF75D tfc:ore/poor_malachite/dolomite
+#A0A1A2 tfc:ore/poor_native_copper/basalt
 #976CA2 tfc_ie_addon:ore/rich_bauxite/conglomerate
 #D9D6DC tfc:ore/rich_limonite/chalk
 #F87165 tfc:ore/rich_limonite/claystone
@@ -227,6 +230,7 @@
 #560605 tfc:wood/fallen_leaves/birch
 #AE04BE afc:wood/fallen_leaves/black_spruce
 #BD0FB5 tfc:wood/fallen_leaves/chestnut
+#3F4647 afc:wood/fallen_leaves/coast_spruce
 #7C2055 afc:wood/fallen_leaves/cypress
 #351A79 afc:wood/fallen_leaves/eucalyptus
 #FC2702 tfc:wood/fallen_leaves/hickory
@@ -265,9 +269,12 @@
 #2BB81B tfc:wood/log/oak
 #EFAC6C tfc:wood/log/pine
 #B3497E tfc:wood/log/spruce
+#EAEF15 tfc:wood/log/sycamore
+#212CF6 tfc:wood/log/willow
 #039B83 tfc:wood/planks/birch
 #954D93 tfc:wood/planks/birch_fence_gate
 #A0C71F tfc:wood/planks/chestnut_fence_gate
+#9A5500 tfc:wood/planks/hickory
 #6EA493 tfc:wood/twig/birch
 #B83E67 tfc:wood/twig/chestnut
 #E75363 afc:wood/twig/cypress
@@ -278,6 +285,7 @@
 #8C4BBC tfc:wood/twig/oak
 #A18CEB tfc:wood/twig/pine
 #6F063D tfc:wood/twig/spruce
+#AA7814 tfc:wood/twig/sycamore
 #EB7335 tfc:wood/vertical_support/hickory
 #6832B9 afc:wood/wood/ancient_pine
 #BBDB5F tfc:wood/wood/birch
@@ -289,4 +297,6 @@
 #533484 tfc:wood/wood/maple
 #10C588 tfc:wood/wood/oak
 #AC4C9F tfc:wood/wood/pine
+#263DC8 tfc:wood/wood/sycamore
+#368C69 tfc:wood/wood/willow
 #9C81F3 woodenhopper:wooden_hopper
