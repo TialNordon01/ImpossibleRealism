@@ -10098,7 +10098,8 @@
   },
   "immersivepetroleum:main/duroplast": {
     "criteria": {
-      "petroleum_gas": "2026-07-30 17:48:50 +0300"
+      "petroleum_gas": "2026-07-30 17:48:50 +0300",
+      "duroplast_block": "2026-08-01 23:06:37 +0300"
     },
     "done": false
   },
@@ -11172,6 +11173,360 @@
   "immersiveengineering:recipes/misc/crafting/toolupgrade_railgun_scope": {
     "criteria": {
       "has_railgun": "2026-07-31 22:06:34 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2026-08-01 19:22:00 +0300"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2026-08-01 23:08:41 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_chemthrower": {
+    "criteria": {
+      "has_item": "2026-08-02 00:34:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_chemthrower_focus": {
+    "criteria": {
+      "has_chemthrower": "2026-08-02 00:34:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/turret_chem": {
+    "criteria": {
+      "has_chemthrower": "2026-08-02 00:34:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_chemthrower_multitank": {
+    "criteria": {
+      "has_chemthrower": "2026-08-02 00:34:54 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_shield_flash": {
+    "criteria": {
+      "has_shield": "2026-08-02 00:36:13 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_shield_magnet": {
+    "criteria": {
+      "has_shield": "2026-08-02 00:36:13 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_shield_shock": {
+    "criteria": {
+      "has_shield": "2026-08-02 00:36:13 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_lead": {
+    "criteria": {
+      "has_plate_lead": "2026-08-02 00:37:29 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_lead_from_slab": {
+    "criteria": {
+      "has_storage_lead": "2026-08-02 00:38:12 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_lead_to_slab": {
+    "criteria": {
+      "has_storage_lead": "2026-08-02 00:38:12 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:recipes/misc/crafting/lead_ingot_from_decompacting": {
+    "criteria": {
+      "has_storage_blocks_lead": "2026-08-02 00:38:12 +0300"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/crafting/kinetics/segmented_display": {
+    "criteria": {
+      "has_item": "2026-08-02 00:43:38 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_grate_top_from_standard": {
+    "criteria": {
+      "has_alu_scaffolding_standard": "2026-08-02 00:55:10 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard_from_slab": {
+    "criteria": {
+      "has_alu_scaffolding_standard": "2026-08-02 00:55:10 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_scaffolding_standard": "2026-08-02 00:55:10 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard_to_slab": {
+    "criteria": {
+      "has_alu_scaffolding_standard": "2026-08-02 00:55:10 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_slope": {
+    "criteria": {
+      "has_alu_scaffolding_standard": "2026-08-02 00:55:10 +0300"
+    },
+    "done": true
+  },
+  "immersivetechnology:recipes/building_blocks/crafting/reinforced_coke_brick": {
+    "criteria": {
+      "has_steel_plate": "2026-08-02 12:52:35 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_chestplate": {
+    "criteria": {
+      "has_steel_plate": "2026-08-02 12:52:35 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_leggings": {
+    "criteria": {
+      "has_steel_plate": "2026-08-02 12:52:35 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_helmet": {
+    "criteria": {
+      "has_steel_plate": "2026-08-02 12:52:35 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_boots": {
+    "criteria": {
+      "has_steel_plate": "2026-08-02 12:52:35 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_steel": {
+    "criteria": {
+      "has_plate_steel": "2026-08-02 12:52:35 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_steel": {
+    "criteria": {
+      "has_plate": "2026-08-02 12:52:35 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_helmet": {
+    "criteria": {
+      "has_alu_plate": "2026-08-02 12:52:59 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_aluminum": {
+    "criteria": {
+      "has_plate_aluminum": "2026-08-02 12:52:59 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_chestplate": {
+    "criteria": {
+      "has_alu_plate": "2026-08-02 12:52:59 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_aluminum": {
+    "criteria": {
+      "has_plate": "2026-08-02 12:52:59 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_leggings": {
+    "criteria": {
+      "has_alu_plate": "2026-08-02 12:52:59 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_boots": {
+    "criteria": {
+      "has_alu_plate": "2026-08-02 12:52:59 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_to_slab": {
+    "criteria": {
+      "has_storage_uranium": "2026-08-02 13:35:47 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_from_slab": {
+    "criteria": {
+      "has_storage_uranium": "2026-08-02 13:35:47 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_uranium_from_dust": {
+    "criteria": {
+      "has_dust_uranium": "2026-08-02 13:37:29 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_uranium_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_uranium": "2026-08-02 13:37:29 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:uranium_liquid": {
+    "criteria": {
+      "0": "2026-08-02 13:45:24 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:enriched_yellowcake": {
+    "criteria": {
+      "0": "2026-08-02 13:45:39 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:yellowcake": {
+    "criteria": {
+      "0": "2026-08-02 13:45:43 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:uranium_rod": {
+    "criteria": {
+      "0": "2026-08-02 13:50:30 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:graphite_rod": {
+    "criteria": {
+      "0": "2026-08-02 13:51:04 +0300"
+    },
+    "done": true
+  },
+  "createnuclear:graphene": {
+    "criteria": {
+      "0": "2026-08-02 13:51:21 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_hop_graphite": {
+    "criteria": {
+      "has_dust_hop_graphite": "2026-08-02 13:51:36 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_hop_graphite_from_blasting": {
+    "criteria": {
+      "has_dust_hop_graphite": "2026-08-02 13:51:36 +0300"
+    },
+    "done": true
+  },
+  "chiselsandbits:chiselsandbits/make_tank": {
+    "criteria": {
+      "bit_tank": "2026-08-02 13:52:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2026-08-02 13:56:03 +0300"
+    },
+    "done": true
+  },
+  "tfc_ie_addon:crafting/metal/block/uranium_slab": {
+    "criteria": {
+      "has_item": "2026-08-02 13:57:43 +0300"
+    },
+    "done": true
+  },
+  "tfc_ie_addon:crafting/metal/block/uranium_stairs": {
+    "criteria": {
+      "has_item": "2026-08-02 13:57:43 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/reactor_fuel_acceptor": {
+    "criteria": {
+      "criterion": "2026-08-02 14:41:07 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/reactor_glass": {
+    "criteria": {
+      "criterion": "2026-08-02 14:41:07 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shapeless/reactor_heat_vent": {
+    "criteria": {
+      "criterion": "2026-08-02 14:41:07 +0300"
+    },
+    "done": true
+  },
+  "sns:recipes/crafting/crafting/red_steel_toe_hiking_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-08-02 14:53:49 +0300"
+    },
+    "done": true
+  },
+  "sns:recipes/crafting/crafting/hiking_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-08-02 14:53:49 +0300"
+    },
+    "done": true
+  },
+  "sns:recipes/crafting/crafting/black_steel_toe_hiking_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-08-02 14:53:49 +0300"
+    },
+    "done": true
+  },
+  "sns:recipes/crafting/crafting/steel_toe_hiking_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-08-02 14:53:49 +0300"
+    },
+    "done": true
+  },
+  "sns:recipes/crafting/crafting/blue_steel_toe_hiking_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-08-02 14:53:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-08-02 20:55:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2026-08-02 20:55:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-08-02 20:55:42 +0300"
     },
     "done": true
   },
