@@ -11530,5 +11530,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-08-05 23:55:55 +0300"
+    },
+    "done": true
+  },
+  "tfc_medicine:proper_care": {
+    "criteria": {
+      "proper_care_0": "2026-08-06 00:41:14 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

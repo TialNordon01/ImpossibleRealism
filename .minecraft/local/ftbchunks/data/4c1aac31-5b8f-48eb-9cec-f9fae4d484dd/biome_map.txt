@@ -1,0 +1,11 @@
+#51A tfc:canyons
+#175 tfc:highlands
+#041 tfc:hills
+#6FC tfc:inverted_badlands
+#77E tfc:lake
+#303 tfc:lowlands
+#5D8 tfc:plains
+#7FB tfc:river
+#5C7 tfc:rolling_hills
+#7A8 tfc:volcanic_mountain_lake
+#32D tfc:volcanic_mountains

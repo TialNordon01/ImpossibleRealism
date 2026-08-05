@@ -381,6 +381,7 @@
 #72EC8F immersiveengineering:storage_steel
 #41C8BB immersiveengineering:storage_uranium
 #0738EF firmalife:stovetop_pot
+#AE05E3 tfcsleep:straw_bed
 #263660 tfmg:surface_scanner
 #DA647C immersiveengineering:thermoelectric_generator
 #52FD2D minecraft:tnt
