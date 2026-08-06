@@ -12089,5 +12089,11 @@
     },
     "done": true
   },
+  "createhorsepower:recipes/misc/horse_crank": {
+    "criteria": {
+      "has_cogwheel": "2026-08-06 14:35:22 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
