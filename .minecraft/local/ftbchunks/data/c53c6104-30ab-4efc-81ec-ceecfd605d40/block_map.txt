@@ -6,6 +6,7 @@
 #52B53D minecraft:air
 #14E95D vs_clockwork:air_compressor
 #9F2DB5 tfmg:air_intake
+#C9D965 modernlife:alarm_clock
 #222F76 createaddition:alternator
 #79726D immersiveengineering:alu_scaffolding_standard
 #6ABD81 tfmg:aluminum_door
@@ -20,6 +21,7 @@
 #DA9404 create:andesite_funnel
 #A64275 createdieselgenerators:andesite_girder
 #DF704E createbigcannons:ap_shell
+#112C7F modernlife:arrow_slit
 #210EED immersivepetroleum:asphalt
 #6775B3 tfmg:asphalt
 #57AA77 createdieselgenerators:asphalt_block
@@ -29,6 +31,7 @@
 #E152BD create:basin
 #8C39B9 createbigcannons:basin_foundry_lid
 #65A3EB createdieselgenerators:basin_lid
+#6552F3 modernlife:bathtub
 #840F59 minecraft:bedrock
 #875F73 firmalife:beehive
 #D71D97 tfc:bellows
@@ -127,6 +130,7 @@
 #FDBA2B firmalife:cured_oven_chimney
 #B3D747 firmalife:cured_oven_top
 #052757 tfmg:cut_galena
+#925B3E modernlife:deluxe_bed
 #A8D192 bombs:demolition_table
 #5E5E58 create:deployer
 #FF48B8 create:depot
@@ -137,13 +141,16 @@
 #5B644A immersivepetroleum:distillation_tower
 #D367B9 createoreexcavation:drilling_machine
 #49B584 createbigcannons:drop_mortar_shell
+#DFB45D modernlife:dryer
 #606093 tfc:drying_bricks/loam
+#06415C modernlife:dual_monitor
 #886F45 vs_clockwork:duct
 #2886C0 immersiveengineering:duroplast
 #D54EDD tfmg:electric_diode
 #56F0C7 tfmg:electric_motor
 #FCA0A6 tfcelectriccooking:electric_oven
 #93A6E3 tfcelectriccooking:electric_soup_pot
+#299EE9 modernlife:electrical_outlet
 #548B83 create:encased_fan
 #C3CBAD tfmg:engine_controller
 #4C6ED3 tfmg:engine_gearbox
@@ -162,6 +169,7 @@
 #139ED7 tfmg:fireproof_bricks
 #4B42BB tfc_aol:flaming_stake
 #8935F8 vs_clockwork:flap
+#B304A1 modernlife:flatscreen_tv
 #784E31 advancedtfctech:fleshing_machine
 #534360 creatingspace:flight_recorder
 #42E4EB creatingspace:flow_meter
@@ -184,6 +192,8 @@
 #D60460 create:gearbox
 #AD44C7 tfmg:generator
 #9C3E7E create_new_age:generator_coil
+#FA0356 modernlife:glass_door
+#145932 modernlife:glass_stairs
 #CF7661 tfc:grass/sandy_loam
 #3F84B7 minecraft:grass_block
 #89DD32 vs_clockwork:gyro
@@ -194,10 +204,12 @@
 #B6A923 immersiveengineering:heavy_engineering
 #A4BC4E tfmg:heavy_oil
 #FF853F minecraft:heavy_weighted_pressure_plate
+#11DAEA modernlife:hedge
 #1A0827 minecraft:hopper
 #A43627 trackwork:horn
 #59CB69 createhorsepower:horse_crank
 #D5F5A3 create:hose_pulley
+#1A9A3C modernlife:hot_water_heater
 #F47085 immersivepetroleum:hydrotreater
 #52D27E minecraft:ice
 #06019E createbigcannons:incomplete_cast_iron_autocannon_breech
@@ -206,8 +218,11 @@
 #282CB7 tfmg:industrial_mixer
 #0C75A8 tfmg:industrial_pipe
 #3D1FA0 integrated_circuit:integrated_circuit
+#45BEE1 modernlife:inverted_light_bulb
 #30F63E createoreexcavation:io_block
 #B7FD3F create_connected:item_silo
+#F3480A modernlife:jail_bars
+#F464F8 modernlife:jail_door
 #167B8A vs_clockwork:juryrigged_propeller_bearing
 #3B086E create:large_bogey
 #6C55C8 create:large_cogwheel
@@ -217,6 +232,7 @@
 #B82ADC create_new_age:layered_magnet
 #1C3C86 tfmg:light_bulb
 #19EEF2 immersiveengineering:light_engineering
+#B59B42 modernlife:light_switch
 #958C8E minecraft:light_weighted_pressure_plate
 #1049B0 tfmg:liquid_asphalt
 #49E81C tfmg:liquid_concrete
@@ -242,11 +258,15 @@
 #99C918 tfcoreprocessing:metal/barrel/red_steel
 #C17316 tfc:metal/block/brass
 #F01822 tfc_ie_addon:metal/block/uranium
+#15722C modernlife:metal_catwalk
 #C4844D create:millstone
+#9784CE modernlife:modern_book
+#EE39AE modernlife:modern_warped_bookshelf
 #BB8DD9 createaddition:modular_accumulator
 #858AC2 tfc:molten
 #AD121F tfmg:molten_slag
 #68118D createbigcannons:molten_steel
+#D99E1F modernlife:monitor
 #6A8F54 creatingspace:moon_aluminum_ore
 #2438C7 creatingspace:moon_cobalt_ore
 #2E501E creatingspace:moon_nickel_ore
@@ -260,6 +280,7 @@
 #09BD60 cb_multipart:multipart
 #618396 tfmg:naphtha
 #84C30A create_new_age:netherite_magnet
+#B3A05F modernlife:old_tv
 #AEA507 trackwork:oleo_wheel
 #B00A5B createdieselgenerators:orange_cement
 #478BFA create:orange_seat
@@ -271,6 +292,8 @@
 #A159E7 firmalife:oven_top
 #1250DE create_connected:parallel_gearbox
 #7E57CE immersivepetroleum:petroleum_gas_fluid_block
+#D5A849 modernlife:photocopier
+#356941 modernlife:photon
 #06A204 vs_clockwork:phys_bearing
 #A637B7 vs_clockwork:physics_infuser
 #453DC2 create:piston_extension_pole
@@ -281,9 +304,11 @@
 #44CBD0 tfmg:polarizer
 #37F844 tfc:pot
 #177D28 createbigcannons:powder_charge
+#ED17FC modernlife:power_transmitter
 #6C312D create:powered_latch
 #D1BD63 create:powered_shaft
 #675418 create:powered_toggle_latch
+#66A8DF modernlife:printer
 #BCFDB1 create:pulse_extender
 #3CCFF2 create:pulse_repeater
 #792DA3 create:pulse_timer
@@ -347,6 +372,7 @@
 #0D57EE tfmg:rotor
 #7B5F9D immersiveengineering:rs_engineering
 #A0D9DA tfc:sand/brown
+#7E3BA4 modernlife:sandstone_kitchen_cabinet
 #B5E289 tfmg:segmented_display
 #F7377C immersivepetroleum:seismic_survey
 #D3CCFE create:shaft
@@ -364,10 +390,12 @@
 #091F1D create:small_rose_quartz_tiles
 #A369E9 createbigcannons:small_steel_cannon_layer
 #743D8E createbigcannons:smoke_shell
+#A28BA2 modernlife:smooth_stone_ramp
 #5E223C createbigcannons:solid_shot
 #60792B tfmg:stator
 #8C8A95 create:steam_engine
 #263927 vs_clockwork:steam_generator
+#AE451E modernlife:steam_radiator
 #238164 tfmg:steel_chemical_vat
 #E20CE9 tfmg:steel_distillation_controller
 #8456CE tfmg:steel_distillation_output
@@ -387,6 +415,7 @@
 #263660 tfmg:surface_scanner
 #DA647C immersiveengineering:thermoelectric_generator
 #52FD2D minecraft:tnt
+#6896D2 modernlife:toilet
 #E66FCF create:track
 #B00EF4 railways:track_acacia_narrow
 #F604EB railways:track_jungle_wide
@@ -417,7 +446,11 @@
 #A59066 createbigcannons:very_large_cast_mould
 #9BDF1A createbigcannons:very_small_cast_mould
 #ACF8D2 createbigcannons:very_small_steel_cannon_layer
+#626A0A modernlife:vinyl_siding
 #5BBC8B tfmg:voltage_observer
+#E148B3 modernlife:warning_alarm
+#E74D6E modernlife:warped_glass_door
+#DD45B0 modernlife:washing_machine
 #AAF4B7 create:water_wheel
 #7D38EB create:water_wheel_structure
 #B75CCB create:white_sail

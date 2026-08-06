@@ -12095,5 +12095,29 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2026-08-06 23:10:42 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2026-08-06 23:10:42 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2026-08-06 23:10:42 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2026-08-06 23:10:42 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

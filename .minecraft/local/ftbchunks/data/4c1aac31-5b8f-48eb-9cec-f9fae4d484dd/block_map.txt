@@ -47,6 +47,7 @@
 #6CB09B tfc:mud/sandy_loam
 #C26A78 tfc:mud_bricks/loam
 #ABAE2A tfc:ore/bituminous_coal/claystone
+#2DB62B tfc:ore/bituminous_coal/shale
 #128DD3 tfc:ore/borax/claystone
 #80C8DF tfc:ore/borax/limestone
 #0D785E tfc:ore/gypsum/claystone
@@ -153,6 +154,8 @@
 #C424CD tfc:sand/white
 #AE05E3 tfcsleep:straw_bed
 #78E3C2 tfc:wood/barrel/chestnut
+#963562 firmaciv:wood/canoe_component_block/pine
+#BFD5CB tfc:wood/chest/chestnut
 #D02307 afc:wood/fallen_leaves/atlas_cedar
 #5421E1 afc:wood/fallen_leaves/black_oak
 #BD0FB5 tfc:wood/fallen_leaves/chestnut
@@ -186,10 +189,13 @@
 #AB7EEF tfc:wood/log/hickory
 #5045AF afc:wood/log/mahogany
 #EFAC6C tfc:wood/log/pine
+#E4A177 tfc:wood/planks/chestnut
 #C5BBF4 tfc:wood/planks/chestnut_door
+#AD2EA9 tfc:wood/planks/chestnut_fence
 #C95EE7 tfc:wood/planks/chestnut_loom
 #D25FB7 tfc:wood/planks/chestnut_workbench
 #C0613B tfc:wood/planks/pine_workbench
+#0518B0 tfc:wood/stripped_log/pine
 #BEC96F afc:wood/twig/black_oak
 #B83E67 tfc:wood/twig/chestnut
 #E75363 afc:wood/twig/cypress
