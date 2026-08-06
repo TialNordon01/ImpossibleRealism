@@ -3596,7 +3596,8 @@
       "black_steel": "2026-07-27 12:42:50 +0300",
       "brass": "2026-07-13 16:53:41 +0300",
       "bronze": "2026-07-11 13:58:42 +0300",
-      "pig_iron": "2026-07-27 12:43:17 +0300"
+      "pig_iron": "2026-07-27 12:43:17 +0300",
+      "red_steel": "2026-08-06 12:57:59 +0300"
     },
     "done": false
   },
@@ -11539,6 +11540,552 @@
   "tfc_medicine:proper_care": {
     "criteria": {
       "proper_care_0": "2026-08-06 00:41:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/red_steel": {
+    "criteria": {
+      "metal_item/red_steel": "2026-08-06 12:57:59 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/hunter": {
+    "criteria": {
+      "special_condition": "2026-08-06 12:58:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-08-06 12:58:11 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2026-08-06 12:58:11 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/bone_needle": {
+    "criteria": {
+      "has_item": "2026-08-06 12:58:11 +0300"
+    },
+    "done": true
+  },
+  "artisanal:crafting/dough/wheat": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "firmalife:crafting/wheat_dough": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "artisanal:crafting/cake": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_8": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_7": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_6": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_1": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_5": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_4": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_3": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_2": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/cake": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:40 +0300"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2026-08-06 13:02:48 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/paint_brush": {
+    "criteria": {
+      "has_item": "2026-08-06 13:02:48 +0300"
+    },
+    "done": true
+  },
+  "firmalife:story/rennet": {
+    "criteria": {
+      "rennet": "2026-08-06 13:06:17 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_8": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_6": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_7": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_4": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_5": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_2": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_3": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_1": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_7": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_8": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_5": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_6": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_3": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_4": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_1": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_2": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_4": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:32 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_3": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:32 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_6": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:32 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_5": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:32 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_2": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:32 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_1": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:32 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_8": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:32 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_7": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:32 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silty_loam_mud_2": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:44 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silty_loam_mud_1": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:44 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silty_loam_mud_4": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:44 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silty_loam_mud_3": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:44 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silty_loam_mud_6": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:44 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silty_loam_mud_5": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:44 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silty_loam_mud_8": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:44 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silty_loam_mud_7": {
+    "criteria": {
+      "has_item": "2026-08-06 13:29:44 +0300"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/rebar_concrete_slab_from_rebar_concrete_stonecutting": {
+    "criteria": {
+      "has_rebar_concrete": "2026-08-06 13:39:04 +0300"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/rebar_concrete_stairs_from_rebar_concrete_stonecutting": {
+    "criteria": {
+      "has_rebar_concrete": "2026-08-06 13:39:04 +0300"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/rebar_concrete_wall_from_rebar_concrete_stonecutting": {
+    "criteria": {
+      "has_rebar_concrete": "2026-08-06 13:39:04 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/slab_hempcrete": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_from_slab": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_pillar": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_pillar": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/hempcrete_pillar": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_to_slab": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/hempcrete_brick_cracked": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/hempcrete_chiseled": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_three_quarter": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_hempcrete": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_chiseled": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_leaded": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_concrete": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_pillar": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_brick": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/concrete_brick_cracked": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_quarter": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_sheet": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete_brick": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_from_slab": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/stairs_concrete": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/hempcrete_brick": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_brick": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_to_slab": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_tile": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_tile": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/stairs_hempcrete": {
+    "criteria": {
+      "has_hempcrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/slab_concrete": {
+    "criteria": {
+      "has_concrete": "2026-08-06 13:39:23 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_pillar2": {
+    "criteria": {
+      "has_concrete_tile": "2026-08-06 13:39:26 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_tile_to_slab": {
+    "criteria": {
+      "has_concrete_tile": "2026-08-06 13:39:26 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_chiseled2": {
+    "criteria": {
+      "has_concrete_tile": "2026-08-06 13:39:26 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_tile_from_slab": {
+    "criteria": {
+      "has_concrete_tile": "2026-08-06 13:39:26 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_concrete_tile": {
+    "criteria": {
+      "has_concrete_tile": "2026-08-06 13:39:26 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/concrete_brick2": {
+    "criteria": {
+      "has_concrete_tile": "2026-08-06 13:39:26 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/slab_concrete_tile": {
+    "criteria": {
+      "has_concrete_tile": "2026-08-06 13:39:26 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/stonecutting/stairs_concrete_tile": {
+    "criteria": {
+      "has_concrete_tile": "2026-08-06 13:39:26 +0300"
     },
     "done": true
   },

@@ -196,6 +196,7 @@
 #FF853F minecraft:heavy_weighted_pressure_plate
 #1A0827 minecraft:hopper
 #A43627 trackwork:horn
+#59CB69 createhorsepower:horse_crank
 #D5F5A3 create:hose_pulley
 #F47085 immersivepetroleum:hydrotreater
 #52D27E minecraft:ice
@@ -358,6 +359,7 @@
 #F20332 trackwork:simple_wheel
 #CA5DE9 create_connected:six_way_gearbox
 #F66619 immersiveengineering:slab_steel_scaffolding_grate_top
+#1D1C8F immersiveengineering:slag_gravel
 #13593A create:small_bogey
 #091F1D create:small_rose_quartz_tiles
 #A369E9 createbigcannons:small_steel_cannon_layer
@@ -429,6 +431,7 @@
 #2E9CEA afc:wood/log/hevea
 #2BB81B tfc:wood/log/oak
 #816B24 afc:wood/log/rubber_fig
+#F5DC99 tfc:wood/planks/acacia_fence
 #3C31BE afc:wood/planks/mahogany
 #D23EAC tfc:wood/planks/oak
 #46BAD2 tfc:wood/planks/oak_loom
